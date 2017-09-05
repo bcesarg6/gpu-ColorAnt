@@ -1,0 +1,357 @@
+Código executado via script automatizador de testes.
+13:11:43, 17/07/17, Monday
+params: -E 3600 -A 1024 -p 1 -n 10 -a 2 -b 8 -r 0.9 -t 100000 -g 10 -m 25 -M -d 0.9 -N 100 -v -z -k 28
+
+-------------------------------------------------
+GPU-COLORANT  
+-------------------------------------------------
+Graph info:
+  Number of vertices.....................: 250
+  Ceil number of vertices (exp 2)........: 512
+-------------------------------------------------
+Parameters:
+  Threads (Ants)...................: 1024
+  Using all the solutions in the process.
+  Alpha............................: 2.00
+  Beta.............................: 8.00
+  Rho..............................: 0.90
+  Pheromone scheme.................: All ants + Best ant + Best colony
+  Change pheromone scheme after 10 iterations.
+  Memory Usage:
+	Memory size......................: 256 (25 of 1024 - ants)
+	Delta............................: 0.90
+-------------------------------------------------
+TABUCOL
+-------------------------------------------------
+Parameters:
+  Iterations.............................: 100000
+  Change tabucol scheme after 100 cycles.
+	Initial scheme: Dynamic
+  Apply tabu search only on the best ant.
+-------------------------------------------------
+GENERAL Options
+-------------------------------------------------
+  Max colors...........: 28
+  Ceil colors (exp 2)..: 32
+  Seed..........................: 130378257078603 (lrand)
+  Max time......................: 3600.000000
+  Running on Verbose mode.
+-------------------------------------------------
+Total memory used on Device: 780.6250 KBytes
+
+
+Cycle 1 - Conflicts found: 10 (edges), 19 (vertices)
+Tempo do método ant_fixed_k: 0.684175
+Tempo do ciclo: 2.213654
+
+Cycle 2 - Conflicts found: 8 (edges), 16 (vertices)
+Tempo do método ant_fixed_k: 0.668723
+Tempo do ciclo: 2.360025
+
+Cycle 3 - Conflicts found: 8 (edges), 16 (vertices)
+Tempo do método ant_fixed_k: 0.668626
+Tempo do ciclo: 2.203649
+
+Cycle 4 - Conflicts found: 8 (edges), 16 (vertices)
+Tempo do método ant_fixed_k: 0.668799
+Tempo do ciclo: 2.307144
+
+Cycle 5 - Conflicts found: 8 (edges), 16 (vertices)
+Tempo do método ant_fixed_k: 0.668786
+Tempo do ciclo: 2.279438
+
+Cycle 6 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667856
+Tempo do ciclo: 2.211187
+
+Cycle 7 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667642
+Tempo do ciclo: 2.222113
+
+Cycle 8 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667503
+Tempo do ciclo: 2.167186
+
+Cycle 9 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667461
+Tempo do ciclo: 2.230430
+
+Cycle 10 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666631
+Tempo do ciclo: 2.254370
+
+Cycle 11 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666681
+Tempo do ciclo: 2.320937
+
+Cycle 12 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666858
+Tempo do ciclo: 2.280972
+
+Cycle 13 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667126
+Tempo do ciclo: 2.282584
+
+Cycle 14 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666384
+Tempo do ciclo: 2.255882
+
+Cycle 15 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667130
+Tempo do ciclo: 2.200226
+
+Cycle 16 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666691
+Tempo do ciclo: 2.237574
+
+Cycle 17 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666194
+Tempo do ciclo: 2.217813
+
+Cycle 18 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666622
+Tempo do ciclo: 2.221426
+
+Cycle 19 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666282
+Tempo do ciclo: 2.184485
+
+Cycle 20 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666251
+Tempo do ciclo: 2.134421
+
+Cycle 21 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666392
+Tempo do ciclo: 2.220453
+
+Cycle 22 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666824
+Tempo do ciclo: 2.233202
+
+Cycle 23 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666391
+Tempo do ciclo: 2.216868
+
+Cycle 24 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.664081
+Tempo do ciclo: 2.200994
+
+Cycle 25 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666294
+Tempo do ciclo: 2.345955
+
+Cycle 26 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666194
+Tempo do ciclo: 2.254547
+
+Cycle 27 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666301
+Tempo do ciclo: 2.315180
+
+Cycle 28 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.665853
+Tempo do ciclo: 2.121462
+
+Cycle 29 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666584
+Tempo do ciclo: 2.205622
+
+Cycle 30 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666349
+Tempo do ciclo: 2.297326
+
+Cycle 31 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666867
+Tempo do ciclo: 2.249580
+
+Cycle 32 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666734
+Tempo do ciclo: 2.134928
+
+Cycle 33 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666590
+Tempo do ciclo: 2.317698
+
+Cycle 34 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666512
+Tempo do ciclo: 2.154669
+
+Cycle 35 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666561
+Tempo do ciclo: 2.221766
+
+Cycle 36 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666346
+Tempo do ciclo: 2.280612
+
+Cycle 37 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666789
+Tempo do ciclo: 2.214169
+
+Cycle 38 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666589
+Tempo do ciclo: 2.320066
+
+Cycle 39 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666766
+Tempo do ciclo: 2.154686
+
+Cycle 40 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667105
+Tempo do ciclo: 2.171860
+
+Cycle 41 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666786
+Tempo do ciclo: 2.184860
+
+Cycle 42 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667402
+Tempo do ciclo: 2.265771
+
+Cycle 43 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667091
+Tempo do ciclo: 2.257246
+
+Cycle 44 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667186
+Tempo do ciclo: 2.205926
+
+Cycle 45 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667379
+Tempo do ciclo: 2.160380
+
+Cycle 46 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667045
+Tempo do ciclo: 2.256728
+
+Cycle 47 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667447
+Tempo do ciclo: 2.203397
+
+Cycle 48 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667181
+Tempo do ciclo: 2.191848
+
+Cycle 49 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667596
+Tempo do ciclo: 2.285804
+
+Cycle 50 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.666724
+Tempo do ciclo: 2.121834
+
+Cycle 51 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667510
+Tempo do ciclo: 2.170447
+
+Cycle 52 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.665701
+Tempo do ciclo: 2.244610
+
+Cycle 53 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667261
+Tempo do ciclo: 2.306112
+
+Cycle 54 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667489
+Tempo do ciclo: 2.253018
+
+Cycle 55 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667594
+Tempo do ciclo: 2.204755
+
+Cycle 56 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667909
+Tempo do ciclo: 2.242241
+
+Cycle 57 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667649
+Tempo do ciclo: 2.094184
+
+Cycle 58 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667769
+Tempo do ciclo: 2.137961
+
+Cycle 59 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.668259
+Tempo do ciclo: 2.179855
+
+Cycle 60 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.668057
+Tempo do ciclo: 2.112215
+
+Cycle 61 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.668412
+Tempo do ciclo: 2.249915
+
+Cycle 62 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.668325
+Tempo do ciclo: 2.216213
+
+Cycle 63 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.668189
+Tempo do ciclo: 2.250601
+
+Cycle 64 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.668014
+Tempo do ciclo: 2.254396
+
+Cycle 65 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667774
+Tempo do ciclo: 2.104340
+
+Cycle 66 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.667897
+Tempo do ciclo: 2.194458
+
+Cycle 67 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.668122
+Tempo do ciclo: 2.241526
+
+Cycle 68 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.668416
+Tempo do ciclo: 2.100313
+
+Cycle 69 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.668433
+Tempo do ciclo: 2.045783
+
+Cycle 70 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.668808
+Tempo do ciclo: 2.209347
+
+Cycle 71 - Conflicts found: 4 (edges), 8 (vertices)
+Tempo do método ant_fixed_k: 0.668532
+Tempo do ciclo: 2.254078
+
+===
+Medias de tempo dos Kernels
+===
+Choose_vertex    : 0.158308
+Calculate_probbs : 0.228563
+Choose_colors    : 0.195096
+Update_info      : 0.084220
+
+===
+Medias de tempo dos métodos
+===
+Media ciclos     : 2.189129
+Media gpu_ant_k  : 0.658174
+Media busca tabu : 0.867557
+Media feromonio  : 0.003209
+ Media Phero_var  : 0.421974
+
+-------------------------------------------------
+SOLUTION:
+-------------------------------------------------
+No. of colors utilized: 28
+No. of conflicting edges: 0
+No. of conflicting vertices: 0
+No. of uncolored vertices: 0
+Real time: 159.813440
+Spent time: 159.813440
+Time to the best: 159.810189
+Total of cycles: 72
+Cycles to the best: 72
+Stop criterion: 3
+-------------------------------------------------

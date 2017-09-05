@@ -1,0 +1,133 @@
+Código executado via script automatizador de testes.
+20:22:34, 17/07/17, Monday
+params: -E 3600 -A 1024 -p 1 -n 10 -a 2 -b 8 -r 0.9 -t 100000 -g 10 -m 25 -M -d 0.9 -N 100 -v -z -k 15
+
+-------------------------------------------------
+GPU-COLORANT  
+-------------------------------------------------
+Graph info:
+  Number of vertices.....................: 450
+  Ceil number of vertices (exp 2)........: 512
+-------------------------------------------------
+Parameters:
+  Threads (Ants)...................: 1024
+  Using all the solutions in the process.
+  Alpha............................: 2.00
+  Beta.............................: 8.00
+  Rho..............................: 0.90
+  Pheromone scheme.................: All ants + Best ant + Best colony
+  Change pheromone scheme after 10 iterations.
+  Memory Usage:
+	Memory size......................: 256 (25 of 1024 - ants)
+	Delta............................: 0.90
+-------------------------------------------------
+TABUCOL
+-------------------------------------------------
+Parameters:
+  Iterations.............................: 100000
+  Change tabucol scheme after 100 cycles.
+	Initial scheme: Dynamic
+  Apply tabu search only on the best ant.
+-------------------------------------------------
+GENERAL Options
+-------------------------------------------------
+  Max colors...........: 15
+  Ceil colors (exp 2)..: 32
+  Seed..........................: 445159527148078 (lrand)
+  Max time......................: 3600.000000
+  Running on Verbose mode.
+-------------------------------------------------
+Total memory used on Device: 2421.2500 KBytes
+
+
+Cycle 1 - Conflicts found: 27 (edges), 45 (vertices)
+Tempo do método ant_fixed_k: 1.120888
+Tempo do ciclo: 3.632384
+
+Cycle 2 - Conflicts found: 27 (edges), 45 (vertices)
+Tempo do método ant_fixed_k: 1.105096
+Tempo do ciclo: 3.586409
+
+Cycle 3 - Conflicts found: 21 (edges), 37 (vertices)
+Tempo do método ant_fixed_k: 1.104724
+Tempo do ciclo: 3.465460
+
+Cycle 4 - Conflicts found: 18 (edges), 29 (vertices)
+Tempo do método ant_fixed_k: 1.104105
+Tempo do ciclo: 3.286874
+
+Cycle 5 - Conflicts found: 16 (edges), 24 (vertices)
+Tempo do método ant_fixed_k: 1.103556
+Tempo do ciclo: 3.083962
+
+Cycle 6 - Conflicts found: 16 (edges), 24 (vertices)
+Tempo do método ant_fixed_k: 1.101578
+Tempo do ciclo: 3.029846
+
+Cycle 7 - Conflicts found: 14 (edges), 21 (vertices)
+Tempo do método ant_fixed_k: 1.100542
+Tempo do ciclo: 2.976497
+
+Cycle 8 - Conflicts found: 10 (edges), 17 (vertices)
+Tempo do método ant_fixed_k: 1.099091
+Tempo do ciclo: 2.894400
+
+Cycle 9 - Conflicts found: 10 (edges), 16 (vertices)
+Tempo do método ant_fixed_k: 1.100175
+Tempo do ciclo: 2.914455
+
+Cycle 10 - Conflicts found: 9 (edges), 13 (vertices)
+Tempo do método ant_fixed_k: 1.100515
+Tempo do ciclo: 2.915238
+
+Cycle 11 - Conflicts found: 8 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.101948
+Tempo do ciclo: 2.906097
+
+Cycle 12 - Conflicts found: 8 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.102309
+Tempo do ciclo: 2.919323
+
+Cycle 13 - Conflicts found: 8 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.104082
+Tempo do ciclo: 2.909637
+
+Cycle 14 - Conflicts found: 8 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.104685
+Tempo do ciclo: 2.906496
+
+Cycle 15 - Conflicts found: 8 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.105496
+Tempo do ciclo: 2.934648
+
+===
+Medias de tempo dos Kernels
+===
+Choose_vertex    : 0.294646
+Calculate_probbs : 0.394655
+Choose_colors    : 0.206380
+Update_info      : 0.206331
+
+===
+Medias de tempo dos métodos
+===
+Media ciclos     : 2.897608
+Media gpu_ant_k  : 1.034924
+Media busca tabu : 0.566365
+Media feromonio  : 0.007479
+ Media Phero_var  : 0.089258
+
+-------------------------------------------------
+SOLUTION:
+-------------------------------------------------
+No. of colors utilized: 15
+No. of conflicting edges: 0
+No. of conflicting vertices: 0
+No. of uncolored vertices: 0
+Real time: 49.897444
+Spent time: 49.897444
+Time to the best: 49.887024
+Total of cycles: 16
+Cycles to the best: 16
+Stop criterion: 3
+-------------------------------------------------

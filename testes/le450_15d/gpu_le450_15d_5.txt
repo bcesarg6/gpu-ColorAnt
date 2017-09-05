@@ -1,0 +1,97 @@
+Código executado via script automatizador de testes.
+21:23:26, 17/07/17, Monday
+params: -E 3600 -A 1024 -p 1 -n 10 -a 2 -b 8 -r 0.9 -t 100000 -g 10 -m 25 -M -d 0.9 -N 100 -v -z -k 15
+
+-------------------------------------------------
+GPU-COLORANT  
+-------------------------------------------------
+Graph info:
+  Number of vertices.....................: 450
+  Ceil number of vertices (exp 2)........: 512
+-------------------------------------------------
+Parameters:
+  Threads (Ants)...................: 1024
+  Using all the solutions in the process.
+  Alpha............................: 2.00
+  Beta.............................: 8.00
+  Rho..............................: 0.90
+  Pheromone scheme.................: All ants + Best ant + Best colony
+  Change pheromone scheme after 10 iterations.
+  Memory Usage:
+	Memory size......................: 256 (25 of 1024 - ants)
+	Delta............................: 0.90
+-------------------------------------------------
+TABUCOL
+-------------------------------------------------
+Parameters:
+  Iterations.............................: 100000
+  Change tabucol scheme after 100 cycles.
+	Initial scheme: Dynamic
+  Apply tabu search only on the best ant.
+-------------------------------------------------
+GENERAL Options
+-------------------------------------------------
+  Max colors...........: 15
+  Ceil colors (exp 2)..: 32
+  Seed..........................: 991783038862240 (lrand)
+  Max time......................: 3600.000000
+  Running on Verbose mode.
+-------------------------------------------------
+Total memory used on Device: 2421.2500 KBytes
+
+
+Cycle 1 - Conflicts found: 26 (edges), 34 (vertices)
+Tempo do método ant_fixed_k: 1.121369
+Tempo do ciclo: 3.376847
+
+Cycle 2 - Conflicts found: 26 (edges), 34 (vertices)
+Tempo do método ant_fixed_k: 1.104952
+Tempo do ciclo: 3.467306
+
+Cycle 3 - Conflicts found: 20 (edges), 28 (vertices)
+Tempo do método ant_fixed_k: 1.104687
+Tempo do ciclo: 3.275968
+
+Cycle 4 - Conflicts found: 20 (edges), 28 (vertices)
+Tempo do método ant_fixed_k: 1.103921
+Tempo do ciclo: 3.214638
+
+Cycle 5 - Conflicts found: 20 (edges), 28 (vertices)
+Tempo do método ant_fixed_k: 1.103689
+Tempo do ciclo: 3.270462
+
+Cycle 6 - Conflicts found: 14 (edges), 22 (vertices)
+Tempo do método ant_fixed_k: 1.101696
+Tempo do ciclo: 3.032533
+
+===
+Medias de tempo dos Kernels
+===
+Choose_vertex    : 0.294964
+Calculate_probbs : 0.393219
+Choose_colors    : 0.206457
+Update_info      : 0.209078
+
+===
+Medias de tempo dos métodos
+===
+Media ciclos     : 2.805393
+Media gpu_ant_k  : 0.948616
+Media busca tabu : 0.675861
+Media feromonio  : 0.007415
+ Media Phero_var  : 0.034362
+
+-------------------------------------------------
+SOLUTION:
+-------------------------------------------------
+No. of colors utilized: 15
+No. of conflicting edges: 0
+No. of conflicting vertices: 0
+No. of uncolored vertices: 0
+Real time: 22.767929
+Spent time: 22.767929
+Time to the best: 22.757722
+Total of cycles: 7
+Cycles to the best: 7
+Stop criterion: 3
+-------------------------------------------------

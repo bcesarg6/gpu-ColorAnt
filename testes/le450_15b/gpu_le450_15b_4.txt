@@ -1,0 +1,4837 @@
+Código executado via script automatizador de testes.
+23:58:32, 24/07/17, Monday
+params: -E 3600 -A 1024 -p 1 -n 10 -a 2 -b 8 -r 0.9 -t 100000 -g 10 -m 25 -M -d 0.9 -N 100 -v -k 15 -k 15
+
+-------------------------------------------------
+GPU-COLORANT  
+-------------------------------------------------
+Graph info:
+  Number of vertices.....................: 450
+  Ceil number of vertices (exp 2)........: 512
+-------------------------------------------------
+Parameters:
+  Threads (Ants)...................: 1024
+  Using all the solutions in the process.
+  Alpha............................: 2.00
+  Beta.............................: 8.00
+  Rho..............................: 0.90
+  Pheromone scheme.................: All ants + Best ant + Best colony
+  Change pheromone scheme after 10 iterations.
+  Memory Usage:
+	Memory size......................: 256 (25 of 1024 - ants)
+	Delta............................: 0.90
+-------------------------------------------------
+TABUCOL
+-------------------------------------------------
+Parameters:
+  Iterations.............................: 100000
+  Change tabucol scheme after 100 cycles.
+	Initial scheme: Dynamic
+  Apply tabu search only on the best ant.
+-------------------------------------------------
+GENERAL Options
+-------------------------------------------------
+  Max colors...........: 15
+  Ceil colors (exp 2)..: 32
+  Seed..........................: 1050113708243584 (lrand)
+  Max time......................: 3600.000000
+  Running on Verbose mode.
+-------------------------------------------------
+Total memory used on Device: 2421.2500 KBytes
+
+
+Cycle 1 - Conflicts found: 14 (edges), 28 (vertices)
+Tempo do método ant_fixed_k: 1.081216
+Tempo do ciclo: 3.044616
+
+Cycle 2 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.059199
+Tempo do ciclo: 3.026736
+
+Cycle 3 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.059362
+Tempo do ciclo: 3.025736
+
+Cycle 4 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.059124
+Tempo do ciclo: 3.044765
+
+Cycle 5 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.058947
+Tempo do ciclo: 3.012016
+
+Cycle 6 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.058962
+Tempo do ciclo: 3.012295
+
+Cycle 7 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.059026
+Tempo do ciclo: 3.042955
+
+Cycle 8 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.058950
+Tempo do ciclo: 3.016993
+
+Cycle 9 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.059040
+Tempo do ciclo: 3.029546
+
+Cycle 10 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.059185
+Tempo do ciclo: 3.013513
+
+Cycle 11 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.059005
+Tempo do ciclo: 3.030392
+
+Cycle 12 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.059223
+Tempo do ciclo: 3.004497
+
+Cycle 13 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.059041
+Tempo do ciclo: 3.012050
+
+Cycle 14 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.058762
+Tempo do ciclo: 3.023896
+
+Cycle 15 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.058679
+Tempo do ciclo: 3.003804
+
+Cycle 16 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.058694
+Tempo do ciclo: 3.026843
+
+Cycle 17 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.058727
+Tempo do ciclo: 3.010082
+
+Cycle 18 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.058706
+Tempo do ciclo: 3.054787
+
+Cycle 19 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.058858
+Tempo do ciclo: 3.011184
+
+Cycle 20 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.058781
+Tempo do ciclo: 3.001641
+
+Cycle 21 - Conflicts found: 12 (edges), 23 (vertices)
+Tempo do método ant_fixed_k: 1.058657
+Tempo do ciclo: 3.002253
+
+Cycle 22 - Conflicts found: 11 (edges), 22 (vertices)
+Tempo do método ant_fixed_k: 1.058757
+Tempo do ciclo: 3.022411
+
+Cycle 23 - Conflicts found: 11 (edges), 22 (vertices)
+Tempo do método ant_fixed_k: 1.058964
+Tempo do ciclo: 3.012292
+
+Cycle 24 - Conflicts found: 11 (edges), 22 (vertices)
+Tempo do método ant_fixed_k: 1.058899
+Tempo do ciclo: 3.028754
+
+Cycle 25 - Conflicts found: 11 (edges), 22 (vertices)
+Tempo do método ant_fixed_k: 1.058720
+Tempo do ciclo: 3.007315
+
+Cycle 26 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058649
+Tempo do ciclo: 3.021890
+
+Cycle 27 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058829
+Tempo do ciclo: 3.003897
+
+Cycle 28 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058853
+Tempo do ciclo: 3.009183
+
+Cycle 29 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059044
+Tempo do ciclo: 3.009880
+
+Cycle 30 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058883
+Tempo do ciclo: 3.032498
+
+Cycle 31 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058771
+Tempo do ciclo: 3.026864
+
+Cycle 32 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058691
+Tempo do ciclo: 3.060466
+
+Cycle 33 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058730
+Tempo do ciclo: 3.013568
+
+Cycle 34 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058782
+Tempo do ciclo: 3.025098
+
+Cycle 35 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058745
+Tempo do ciclo: 3.010769
+
+Cycle 36 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058905
+Tempo do ciclo: 3.030911
+
+Cycle 37 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058858
+Tempo do ciclo: 3.021145
+
+Cycle 38 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058703
+Tempo do ciclo: 3.027165
+
+Cycle 39 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058920
+Tempo do ciclo: 3.007140
+
+Cycle 40 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058789
+Tempo do ciclo: 3.015694
+
+Cycle 41 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058732
+Tempo do ciclo: 2.990884
+
+Cycle 42 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058856
+Tempo do ciclo: 3.021980
+
+Cycle 43 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059213
+Tempo do ciclo: 2.984661
+
+Cycle 44 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058981
+Tempo do ciclo: 3.014733
+
+Cycle 45 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058672
+Tempo do ciclo: 3.006258
+
+Cycle 46 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058841
+Tempo do ciclo: 3.029011
+
+Cycle 47 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058995
+Tempo do ciclo: 3.010016
+
+Cycle 48 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059161
+Tempo do ciclo: 3.003605
+
+Cycle 49 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059182
+Tempo do ciclo: 2.998094
+
+Cycle 50 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059632
+Tempo do ciclo: 3.030478
+
+Cycle 51 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059161
+Tempo do ciclo: 3.017786
+
+Cycle 52 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059252
+Tempo do ciclo: 3.048640
+
+Cycle 53 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059214
+Tempo do ciclo: 3.004726
+
+Cycle 54 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059073
+Tempo do ciclo: 3.033150
+
+Cycle 55 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059441
+Tempo do ciclo: 2.997422
+
+Cycle 56 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058958
+Tempo do ciclo: 3.025254
+
+Cycle 57 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059218
+Tempo do ciclo: 3.021785
+
+Cycle 58 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059596
+Tempo do ciclo: 2.991701
+
+Cycle 59 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059192
+Tempo do ciclo: 3.026760
+
+Cycle 60 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059178
+Tempo do ciclo: 3.005218
+
+Cycle 61 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059209
+Tempo do ciclo: 3.028960
+
+Cycle 62 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059245
+Tempo do ciclo: 3.015363
+
+Cycle 63 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059137
+Tempo do ciclo: 3.019904
+
+Cycle 64 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059098
+Tempo do ciclo: 3.032084
+
+Cycle 65 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059569
+Tempo do ciclo: 3.015657
+
+Cycle 66 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059172
+Tempo do ciclo: 3.023596
+
+Cycle 67 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059136
+Tempo do ciclo: 3.016758
+
+Cycle 68 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059487
+Tempo do ciclo: 3.030334
+
+Cycle 69 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059154
+Tempo do ciclo: 3.017155
+
+Cycle 70 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059402
+Tempo do ciclo: 3.042753
+
+Cycle 71 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059556
+Tempo do ciclo: 3.021666
+
+Cycle 72 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059007
+Tempo do ciclo: 3.010784
+
+Cycle 73 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059274
+Tempo do ciclo: 3.023006
+
+Cycle 74 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059250
+Tempo do ciclo: 3.028013
+
+Cycle 75 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059301
+Tempo do ciclo: 3.041674
+
+Cycle 76 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059399
+Tempo do ciclo: 3.025053
+
+Cycle 77 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059053
+Tempo do ciclo: 3.023653
+
+Cycle 78 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059793
+Tempo do ciclo: 2.997015
+
+Cycle 79 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059193
+Tempo do ciclo: 3.009689
+
+Cycle 80 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059397
+Tempo do ciclo: 3.029009
+
+Cycle 81 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059612
+Tempo do ciclo: 3.013903
+
+Cycle 82 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059237
+Tempo do ciclo: 3.022110
+
+Cycle 83 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059150
+Tempo do ciclo: 3.007686
+
+Cycle 84 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059570
+Tempo do ciclo: 3.017251
+
+Cycle 85 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059494
+Tempo do ciclo: 3.030582
+
+Cycle 86 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059548
+Tempo do ciclo: 3.036257
+
+Cycle 87 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059692
+Tempo do ciclo: 3.031891
+
+Cycle 88 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059362
+Tempo do ciclo: 3.013660
+
+Cycle 89 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059225
+Tempo do ciclo: 3.051438
+
+Cycle 90 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059629
+Tempo do ciclo: 2.968556
+
+Cycle 91 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059409
+Tempo do ciclo: 3.005303
+
+Cycle 92 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059187
+Tempo do ciclo: 2.983057
+
+Cycle 93 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059289
+Tempo do ciclo: 3.028370
+
+Cycle 94 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059682
+Tempo do ciclo: 2.992210
+
+Cycle 95 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059382
+Tempo do ciclo: 3.022383
+
+Cycle 96 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059160
+Tempo do ciclo: 3.032642
+
+Cycle 97 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059371
+Tempo do ciclo: 2.996268
+
+Cycle 98 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059412
+Tempo do ciclo: 3.019419
+
+Cycle 99 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059236
+Tempo do ciclo: 3.013395
+
+Cycle 100 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059572
+Tempo do ciclo: 2.994690
+
+Cycle 101 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059329
+Tempo do ciclo: 3.010906
+
+Cycle 102 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059519
+Tempo do ciclo: 3.032756
+
+Cycle 103 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059562
+Tempo do ciclo: 3.052472
+
+Cycle 104 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059476
+Tempo do ciclo: 3.015020
+
+Cycle 105 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059892
+Tempo do ciclo: 3.007820
+
+Cycle 106 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059512
+Tempo do ciclo: 2.987828
+
+Cycle 107 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059545
+Tempo do ciclo: 3.009057
+
+Cycle 108 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059883
+Tempo do ciclo: 3.016199
+
+Cycle 109 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059719
+Tempo do ciclo: 3.018348
+
+Cycle 110 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059718
+Tempo do ciclo: 3.033432
+
+Cycle 111 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059627
+Tempo do ciclo: 3.030593
+
+Cycle 112 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059660
+Tempo do ciclo: 2.973017
+
+Cycle 113 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059658
+Tempo do ciclo: 3.044249
+
+Cycle 114 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059517
+Tempo do ciclo: 3.035592
+
+Cycle 115 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059617
+Tempo do ciclo: 3.011365
+
+Cycle 116 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059656
+Tempo do ciclo: 2.979739
+
+Cycle 117 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059634
+Tempo do ciclo: 3.030063
+
+Cycle 118 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059552
+Tempo do ciclo: 3.017912
+
+Cycle 119 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059443
+Tempo do ciclo: 3.029331
+
+Cycle 120 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059370
+Tempo do ciclo: 2.996782
+
+Cycle 121 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059685
+Tempo do ciclo: 3.027977
+
+Cycle 122 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059529
+Tempo do ciclo: 3.006606
+
+Cycle 123 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059985
+Tempo do ciclo: 3.024744
+
+Cycle 124 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059539
+Tempo do ciclo: 3.008966
+
+Cycle 125 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059496
+Tempo do ciclo: 3.020423
+
+Cycle 126 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060013
+Tempo do ciclo: 3.031657
+
+Cycle 127 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059847
+Tempo do ciclo: 2.986553
+
+Cycle 128 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059856
+Tempo do ciclo: 3.036409
+
+Cycle 129 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059824
+Tempo do ciclo: 3.014213
+
+Cycle 130 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059660
+Tempo do ciclo: 3.022138
+
+Cycle 131 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059721
+Tempo do ciclo: 3.040392
+
+Cycle 132 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059763
+Tempo do ciclo: 3.020707
+
+Cycle 133 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059659
+Tempo do ciclo: 2.986206
+
+Cycle 134 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059636
+Tempo do ciclo: 3.016685
+
+Cycle 135 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060121
+Tempo do ciclo: 3.001489
+
+Cycle 136 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059777
+Tempo do ciclo: 3.031880
+
+Cycle 137 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059777
+Tempo do ciclo: 3.025837
+
+Cycle 138 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059696
+Tempo do ciclo: 3.016194
+
+Cycle 139 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059960
+Tempo do ciclo: 3.002396
+
+Cycle 140 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059828
+Tempo do ciclo: 2.999749
+
+Cycle 141 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059730
+Tempo do ciclo: 3.027411
+
+Cycle 142 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059884
+Tempo do ciclo: 3.025324
+
+Cycle 143 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059788
+Tempo do ciclo: 3.010770
+
+Cycle 144 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060023
+Tempo do ciclo: 3.001783
+
+Cycle 145 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059823
+Tempo do ciclo: 3.031048
+
+Cycle 146 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059901
+Tempo do ciclo: 2.999941
+
+Cycle 147 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059911
+Tempo do ciclo: 3.009858
+
+Cycle 148 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059654
+Tempo do ciclo: 3.009159
+
+Cycle 149 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059852
+Tempo do ciclo: 3.008960
+
+Cycle 150 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059900
+Tempo do ciclo: 3.013450
+
+Cycle 151 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060118
+Tempo do ciclo: 3.014623
+
+Cycle 152 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059725
+Tempo do ciclo: 3.004833
+
+Cycle 153 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059681
+Tempo do ciclo: 3.007023
+
+Cycle 154 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060004
+Tempo do ciclo: 3.026881
+
+Cycle 155 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060085
+Tempo do ciclo: 3.050760
+
+Cycle 156 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060096
+Tempo do ciclo: 3.033590
+
+Cycle 157 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059849
+Tempo do ciclo: 2.986819
+
+Cycle 158 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059731
+Tempo do ciclo: 2.998678
+
+Cycle 159 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059986
+Tempo do ciclo: 3.034387
+
+Cycle 160 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060215
+Tempo do ciclo: 3.000836
+
+Cycle 161 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060007
+Tempo do ciclo: 3.035831
+
+Cycle 162 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060003
+Tempo do ciclo: 3.057299
+
+Cycle 163 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059949
+Tempo do ciclo: 3.016986
+
+Cycle 164 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059906
+Tempo do ciclo: 3.008020
+
+Cycle 165 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059963
+Tempo do ciclo: 2.983968
+
+Cycle 166 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059935
+Tempo do ciclo: 2.991494
+
+Cycle 167 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059791
+Tempo do ciclo: 2.992252
+
+Cycle 168 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059596
+Tempo do ciclo: 3.012989
+
+Cycle 169 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060053
+Tempo do ciclo: 3.034560
+
+Cycle 170 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060016
+Tempo do ciclo: 3.038372
+
+Cycle 171 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059555
+Tempo do ciclo: 3.056441
+
+Cycle 172 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059805
+Tempo do ciclo: 3.010445
+
+Cycle 173 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059643
+Tempo do ciclo: 3.027026
+
+Cycle 174 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060049
+Tempo do ciclo: 3.031805
+
+Cycle 175 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059532
+Tempo do ciclo: 2.995023
+
+Cycle 176 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059405
+Tempo do ciclo: 3.061955
+
+Cycle 177 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060150
+Tempo do ciclo: 3.037012
+
+Cycle 178 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059381
+Tempo do ciclo: 3.006159
+
+Cycle 179 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059542
+Tempo do ciclo: 3.029658
+
+Cycle 180 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059331
+Tempo do ciclo: 3.024336
+
+Cycle 181 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059746
+Tempo do ciclo: 3.017640
+
+Cycle 182 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059293
+Tempo do ciclo: 3.023415
+
+Cycle 183 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059383
+Tempo do ciclo: 3.041778
+
+Cycle 184 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059554
+Tempo do ciclo: 3.051503
+
+Cycle 185 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059334
+Tempo do ciclo: 3.005175
+
+Cycle 186 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059826
+Tempo do ciclo: 2.993929
+
+Cycle 187 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060109
+Tempo do ciclo: 2.974123
+
+Cycle 188 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059906
+Tempo do ciclo: 3.015545
+
+Cycle 189 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059820
+Tempo do ciclo: 3.018290
+
+Cycle 190 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059692
+Tempo do ciclo: 3.015862
+
+Cycle 191 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059748
+Tempo do ciclo: 2.972859
+
+Cycle 192 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059107
+Tempo do ciclo: 2.978048
+
+Cycle 193 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059159
+Tempo do ciclo: 2.989824
+
+Cycle 194 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059348
+Tempo do ciclo: 3.039684
+
+Cycle 195 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059242
+Tempo do ciclo: 3.015416
+
+Cycle 196 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059560
+Tempo do ciclo: 2.978303
+
+Cycle 197 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059666
+Tempo do ciclo: 3.034369
+
+Cycle 198 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059521
+Tempo do ciclo: 3.006790
+
+Cycle 199 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058987
+Tempo do ciclo: 3.016240
+
+Cycle 200 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059335
+Tempo do ciclo: 3.004296
+
+Cycle 201 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059509
+Tempo do ciclo: 3.030350
+
+Cycle 202 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059135
+Tempo do ciclo: 2.993613
+
+Cycle 203 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059093
+Tempo do ciclo: 2.961545
+
+Cycle 204 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059618
+Tempo do ciclo: 2.995335
+
+Cycle 205 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059247
+Tempo do ciclo: 2.995877
+
+Cycle 206 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059226
+Tempo do ciclo: 3.029294
+
+Cycle 207 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060068
+Tempo do ciclo: 2.975100
+
+Cycle 208 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059469
+Tempo do ciclo: 3.030317
+
+Cycle 209 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059516
+Tempo do ciclo: 3.043544
+
+Cycle 210 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059801
+Tempo do ciclo: 3.025637
+
+Cycle 211 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060186
+Tempo do ciclo: 3.032184
+
+Cycle 212 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059811
+Tempo do ciclo: 2.998116
+
+Cycle 213 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059946
+Tempo do ciclo: 2.972982
+
+Cycle 214 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060257
+Tempo do ciclo: 3.016914
+
+Cycle 215 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059644
+Tempo do ciclo: 3.036444
+
+Cycle 216 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060069
+Tempo do ciclo: 3.011423
+
+Cycle 217 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060483
+Tempo do ciclo: 3.017492
+
+Cycle 218 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059739
+Tempo do ciclo: 2.996260
+
+Cycle 219 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059484
+Tempo do ciclo: 3.027567
+
+Cycle 220 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060118
+Tempo do ciclo: 3.033723
+
+Cycle 221 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060454
+Tempo do ciclo: 3.009800
+
+Cycle 222 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060310
+Tempo do ciclo: 3.035111
+
+Cycle 223 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060136
+Tempo do ciclo: 2.977825
+
+Cycle 224 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060144
+Tempo do ciclo: 3.024591
+
+Cycle 225 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060213
+Tempo do ciclo: 2.997632
+
+Cycle 226 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060155
+Tempo do ciclo: 3.012179
+
+Cycle 227 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060785
+Tempo do ciclo: 2.984169
+
+Cycle 228 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060246
+Tempo do ciclo: 3.037767
+
+Cycle 229 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060344
+Tempo do ciclo: 2.988178
+
+Cycle 230 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060421
+Tempo do ciclo: 2.989118
+
+Cycle 231 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060520
+Tempo do ciclo: 3.019646
+
+Cycle 232 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060443
+Tempo do ciclo: 3.008042
+
+Cycle 233 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060574
+Tempo do ciclo: 3.010879
+
+Cycle 234 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060165
+Tempo do ciclo: 3.021479
+
+Cycle 235 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060177
+Tempo do ciclo: 3.034453
+
+Cycle 236 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060331
+Tempo do ciclo: 2.991268
+
+Cycle 237 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060396
+Tempo do ciclo: 3.015371
+
+Cycle 238 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060588
+Tempo do ciclo: 3.017905
+
+Cycle 239 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060406
+Tempo do ciclo: 3.026332
+
+Cycle 240 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060429
+Tempo do ciclo: 2.996259
+
+Cycle 241 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060424
+Tempo do ciclo: 3.035035
+
+Cycle 242 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060684
+Tempo do ciclo: 3.003922
+
+Cycle 243 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060353
+Tempo do ciclo: 3.023931
+
+Cycle 244 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060358
+Tempo do ciclo: 3.015768
+
+Cycle 245 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060657
+Tempo do ciclo: 2.991650
+
+Cycle 246 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060437
+Tempo do ciclo: 3.013081
+
+Cycle 247 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060467
+Tempo do ciclo: 3.021924
+
+Cycle 248 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060526
+Tempo do ciclo: 3.017306
+
+Cycle 249 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060382
+Tempo do ciclo: 2.974087
+
+Cycle 250 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060328
+Tempo do ciclo: 3.039511
+
+Cycle 251 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060142
+Tempo do ciclo: 3.004153
+
+Cycle 252 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060569
+Tempo do ciclo: 3.019580
+
+Cycle 253 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060429
+Tempo do ciclo: 3.006962
+
+Cycle 254 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060109
+Tempo do ciclo: 3.011990
+
+Cycle 255 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060866
+Tempo do ciclo: 2.992331
+
+Cycle 256 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060791
+Tempo do ciclo: 3.048489
+
+Cycle 257 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060641
+Tempo do ciclo: 3.003799
+
+Cycle 258 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060647
+Tempo do ciclo: 3.020257
+
+Cycle 259 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060626
+Tempo do ciclo: 3.048231
+
+Cycle 260 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060814
+Tempo do ciclo: 3.047038
+
+Cycle 261 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060451
+Tempo do ciclo: 3.037789
+
+Cycle 262 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060449
+Tempo do ciclo: 3.031662
+
+Cycle 263 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059991
+Tempo do ciclo: 3.012218
+
+Cycle 264 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060308
+Tempo do ciclo: 3.007435
+
+Cycle 265 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060274
+Tempo do ciclo: 3.006230
+
+Cycle 266 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060103
+Tempo do ciclo: 3.016578
+
+Cycle 267 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060275
+Tempo do ciclo: 2.997564
+
+Cycle 268 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060104
+Tempo do ciclo: 3.013274
+
+Cycle 269 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060088
+Tempo do ciclo: 3.012721
+
+Cycle 270 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059693
+Tempo do ciclo: 3.021537
+
+Cycle 271 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059844
+Tempo do ciclo: 3.025898
+
+Cycle 272 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059824
+Tempo do ciclo: 3.002615
+
+Cycle 273 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059844
+Tempo do ciclo: 3.012648
+
+Cycle 274 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059827
+Tempo do ciclo: 3.027745
+
+Cycle 275 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059633
+Tempo do ciclo: 2.983560
+
+Cycle 276 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059958
+Tempo do ciclo: 3.039257
+
+Cycle 277 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059764
+Tempo do ciclo: 3.019252
+
+Cycle 278 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059916
+Tempo do ciclo: 3.037352
+
+Cycle 279 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059597
+Tempo do ciclo: 3.022476
+
+Cycle 280 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059530
+Tempo do ciclo: 2.995777
+
+Cycle 281 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059698
+Tempo do ciclo: 3.004655
+
+Cycle 282 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059653
+Tempo do ciclo: 3.024334
+
+Cycle 283 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059764
+Tempo do ciclo: 2.986556
+
+Cycle 284 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059755
+Tempo do ciclo: 3.008896
+
+Cycle 285 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059600
+Tempo do ciclo: 3.009432
+
+Cycle 286 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059753
+Tempo do ciclo: 2.985200
+
+Cycle 287 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059534
+Tempo do ciclo: 3.010140
+
+Cycle 288 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059215
+Tempo do ciclo: 3.012532
+
+Cycle 289 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059415
+Tempo do ciclo: 3.014257
+
+Cycle 290 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059542
+Tempo do ciclo: 3.025753
+
+Cycle 291 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059550
+Tempo do ciclo: 2.995625
+
+Cycle 292 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059187
+Tempo do ciclo: 2.987501
+
+Cycle 293 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059578
+Tempo do ciclo: 2.997276
+
+Cycle 294 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059333
+Tempo do ciclo: 3.016927
+
+Cycle 295 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059022
+Tempo do ciclo: 2.986604
+
+Cycle 296 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059378
+Tempo do ciclo: 3.032589
+
+Cycle 297 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058902
+Tempo do ciclo: 2.993559
+
+Cycle 298 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059266
+Tempo do ciclo: 3.032319
+
+Cycle 299 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059123
+Tempo do ciclo: 3.019864
+
+Cycle 300 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059403
+Tempo do ciclo: 3.008834
+
+Cycle 301 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059312
+Tempo do ciclo: 3.015139
+
+Cycle 302 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059217
+Tempo do ciclo: 3.010843
+
+Cycle 303 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058946
+Tempo do ciclo: 3.008922
+
+Cycle 304 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058882
+Tempo do ciclo: 3.007616
+
+Cycle 305 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059086
+Tempo do ciclo: 3.033731
+
+Cycle 306 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058904
+Tempo do ciclo: 3.016378
+
+Cycle 307 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059306
+Tempo do ciclo: 3.005599
+
+Cycle 308 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059022
+Tempo do ciclo: 3.012519
+
+Cycle 309 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059250
+Tempo do ciclo: 3.023966
+
+Cycle 310 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059128
+Tempo do ciclo: 3.032972
+
+Cycle 311 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058950
+Tempo do ciclo: 3.039944
+
+Cycle 312 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058978
+Tempo do ciclo: 3.011939
+
+Cycle 313 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059291
+Tempo do ciclo: 3.038083
+
+Cycle 314 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059083
+Tempo do ciclo: 3.042063
+
+Cycle 315 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059471
+Tempo do ciclo: 3.037071
+
+Cycle 316 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059275
+Tempo do ciclo: 2.976416
+
+Cycle 317 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059326
+Tempo do ciclo: 3.015832
+
+Cycle 318 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059048
+Tempo do ciclo: 3.011814
+
+Cycle 319 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059125
+Tempo do ciclo: 2.964670
+
+Cycle 320 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058617
+Tempo do ciclo: 2.989047
+
+Cycle 321 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059119
+Tempo do ciclo: 3.026605
+
+Cycle 322 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059104
+Tempo do ciclo: 3.007892
+
+Cycle 323 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058862
+Tempo do ciclo: 3.009566
+
+Cycle 324 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059090
+Tempo do ciclo: 3.039306
+
+Cycle 325 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059128
+Tempo do ciclo: 2.999300
+
+Cycle 326 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058962
+Tempo do ciclo: 3.013046
+
+Cycle 327 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059154
+Tempo do ciclo: 3.011162
+
+Cycle 328 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059095
+Tempo do ciclo: 3.015448
+
+Cycle 329 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059083
+Tempo do ciclo: 2.991639
+
+Cycle 330 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059017
+Tempo do ciclo: 3.033345
+
+Cycle 331 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058939
+Tempo do ciclo: 3.015645
+
+Cycle 332 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058786
+Tempo do ciclo: 3.015472
+
+Cycle 333 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058803
+Tempo do ciclo: 3.022522
+
+Cycle 334 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059072
+Tempo do ciclo: 3.012164
+
+Cycle 335 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058948
+Tempo do ciclo: 3.022487
+
+Cycle 336 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059083
+Tempo do ciclo: 3.054023
+
+Cycle 337 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058761
+Tempo do ciclo: 2.993827
+
+Cycle 338 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058691
+Tempo do ciclo: 3.021489
+
+Cycle 339 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058615
+Tempo do ciclo: 3.036884
+
+Cycle 340 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058585
+Tempo do ciclo: 2.996108
+
+Cycle 341 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058653
+Tempo do ciclo: 3.036508
+
+Cycle 342 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058618
+Tempo do ciclo: 3.050993
+
+Cycle 343 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058799
+Tempo do ciclo: 3.030742
+
+Cycle 344 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058761
+Tempo do ciclo: 3.018922
+
+Cycle 345 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058779
+Tempo do ciclo: 3.018051
+
+Cycle 346 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058665
+Tempo do ciclo: 3.006864
+
+Cycle 347 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058484
+Tempo do ciclo: 3.024049
+
+Cycle 348 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058838
+Tempo do ciclo: 3.027284
+
+Cycle 349 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058986
+Tempo do ciclo: 3.036604
+
+Cycle 350 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059322
+Tempo do ciclo: 3.032037
+
+Cycle 351 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059358
+Tempo do ciclo: 2.999494
+
+Cycle 352 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059642
+Tempo do ciclo: 2.996307
+
+Cycle 353 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059167
+Tempo do ciclo: 3.008986
+
+Cycle 354 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059671
+Tempo do ciclo: 3.032714
+
+Cycle 355 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059160
+Tempo do ciclo: 3.005970
+
+Cycle 356 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059105
+Tempo do ciclo: 3.022380
+
+Cycle 357 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058976
+Tempo do ciclo: 3.016798
+
+Cycle 358 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059148
+Tempo do ciclo: 3.030506
+
+Cycle 359 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058811
+Tempo do ciclo: 3.030513
+
+Cycle 360 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059111
+Tempo do ciclo: 3.011938
+
+Cycle 361 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059108
+Tempo do ciclo: 3.039925
+
+Cycle 362 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059010
+Tempo do ciclo: 3.008369
+
+Cycle 363 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058988
+Tempo do ciclo: 3.018320
+
+Cycle 364 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059101
+Tempo do ciclo: 3.035311
+
+Cycle 365 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059055
+Tempo do ciclo: 3.030337
+
+Cycle 366 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059411
+Tempo do ciclo: 2.991751
+
+Cycle 367 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059388
+Tempo do ciclo: 3.023313
+
+Cycle 368 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058925
+Tempo do ciclo: 3.016135
+
+Cycle 369 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059158
+Tempo do ciclo: 3.006064
+
+Cycle 370 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059396
+Tempo do ciclo: 3.036437
+
+Cycle 371 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059228
+Tempo do ciclo: 3.032871
+
+Cycle 372 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059205
+Tempo do ciclo: 3.036301
+
+Cycle 373 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059209
+Tempo do ciclo: 3.032053
+
+Cycle 374 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059217
+Tempo do ciclo: 3.032330
+
+Cycle 375 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059281
+Tempo do ciclo: 3.022809
+
+Cycle 376 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060010
+Tempo do ciclo: 3.000228
+
+Cycle 377 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059009
+Tempo do ciclo: 3.032975
+
+Cycle 378 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059060
+Tempo do ciclo: 3.036069
+
+Cycle 379 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059054
+Tempo do ciclo: 3.048809
+
+Cycle 380 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059523
+Tempo do ciclo: 3.012664
+
+Cycle 381 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059451
+Tempo do ciclo: 3.035453
+
+Cycle 382 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059205
+Tempo do ciclo: 3.030371
+
+Cycle 383 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059624
+Tempo do ciclo: 3.017403
+
+Cycle 384 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058900
+Tempo do ciclo: 3.043522
+
+Cycle 385 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059202
+Tempo do ciclo: 3.040443
+
+Cycle 386 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059522
+Tempo do ciclo: 3.024387
+
+Cycle 387 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059167
+Tempo do ciclo: 3.011943
+
+Cycle 388 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059029
+Tempo do ciclo: 3.059323
+
+Cycle 389 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059214
+Tempo do ciclo: 3.031833
+
+Cycle 390 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059230
+Tempo do ciclo: 3.023971
+
+Cycle 391 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059247
+Tempo do ciclo: 3.024757
+
+Cycle 392 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059125
+Tempo do ciclo: 3.045795
+
+Cycle 393 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059371
+Tempo do ciclo: 3.028803
+
+Cycle 394 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059044
+Tempo do ciclo: 3.005311
+
+Cycle 395 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058952
+Tempo do ciclo: 3.003321
+
+Cycle 396 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059263
+Tempo do ciclo: 3.043390
+
+Cycle 397 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059179
+Tempo do ciclo: 3.025193
+
+Cycle 398 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058880
+Tempo do ciclo: 3.036589
+
+Cycle 399 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059087
+Tempo do ciclo: 3.007520
+
+Cycle 400 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059478
+Tempo do ciclo: 3.008182
+
+Cycle 401 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059577
+Tempo do ciclo: 3.036413
+
+Cycle 402 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059749
+Tempo do ciclo: 2.999436
+
+Cycle 403 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059745
+Tempo do ciclo: 2.987714
+
+Cycle 404 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059713
+Tempo do ciclo: 3.026460
+
+Cycle 405 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059620
+Tempo do ciclo: 3.020648
+
+Cycle 406 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059916
+Tempo do ciclo: 3.043939
+
+Cycle 407 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059508
+Tempo do ciclo: 3.029828
+
+Cycle 408 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059518
+Tempo do ciclo: 3.035512
+
+Cycle 409 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060148
+Tempo do ciclo: 3.029639
+
+Cycle 410 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059696
+Tempo do ciclo: 3.027392
+
+Cycle 411 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060161
+Tempo do ciclo: 3.023542
+
+Cycle 412 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059803
+Tempo do ciclo: 3.043782
+
+Cycle 413 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060137
+Tempo do ciclo: 3.018477
+
+Cycle 414 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059829
+Tempo do ciclo: 3.041546
+
+Cycle 415 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059923
+Tempo do ciclo: 3.037765
+
+Cycle 416 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060079
+Tempo do ciclo: 3.038317
+
+Cycle 417 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059941
+Tempo do ciclo: 3.005494
+
+Cycle 418 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059934
+Tempo do ciclo: 3.014116
+
+Cycle 419 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059832
+Tempo do ciclo: 3.024101
+
+Cycle 420 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059761
+Tempo do ciclo: 3.051089
+
+Cycle 421 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059721
+Tempo do ciclo: 3.027750
+
+Cycle 422 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059782
+Tempo do ciclo: 3.023396
+
+Cycle 423 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060003
+Tempo do ciclo: 3.006748
+
+Cycle 424 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059711
+Tempo do ciclo: 2.996835
+
+Cycle 425 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058977
+Tempo do ciclo: 3.021997
+
+Cycle 426 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059168
+Tempo do ciclo: 3.024099
+
+Cycle 427 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058638
+Tempo do ciclo: 3.028148
+
+Cycle 428 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059366
+Tempo do ciclo: 3.038507
+
+Cycle 429 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059760
+Tempo do ciclo: 3.030125
+
+Cycle 430 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059857
+Tempo do ciclo: 3.031815
+
+Cycle 431 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059560
+Tempo do ciclo: 3.015637
+
+Cycle 432 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059799
+Tempo do ciclo: 3.049962
+
+Cycle 433 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059564
+Tempo do ciclo: 3.011329
+
+Cycle 434 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059441
+Tempo do ciclo: 3.013561
+
+Cycle 435 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059165
+Tempo do ciclo: 3.035311
+
+Cycle 436 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059806
+Tempo do ciclo: 3.021352
+
+Cycle 437 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059254
+Tempo do ciclo: 3.032164
+
+Cycle 438 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059379
+Tempo do ciclo: 3.064005
+
+Cycle 439 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059241
+Tempo do ciclo: 3.051159
+
+Cycle 440 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059281
+Tempo do ciclo: 3.016873
+
+Cycle 441 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059464
+Tempo do ciclo: 3.004216
+
+Cycle 442 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059417
+Tempo do ciclo: 3.053852
+
+Cycle 443 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059140
+Tempo do ciclo: 3.027101
+
+Cycle 444 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059565
+Tempo do ciclo: 2.966303
+
+Cycle 445 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059168
+Tempo do ciclo: 3.027156
+
+Cycle 446 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059596
+Tempo do ciclo: 3.016350
+
+Cycle 447 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059448
+Tempo do ciclo: 3.032813
+
+Cycle 448 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059479
+Tempo do ciclo: 3.017455
+
+Cycle 449 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059837
+Tempo do ciclo: 3.027601
+
+Cycle 450 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059145
+Tempo do ciclo: 3.039928
+
+Cycle 451 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059396
+Tempo do ciclo: 2.990882
+
+Cycle 452 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059875
+Tempo do ciclo: 3.020408
+
+Cycle 453 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059456
+Tempo do ciclo: 3.011503
+
+Cycle 454 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059801
+Tempo do ciclo: 3.014570
+
+Cycle 455 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059761
+Tempo do ciclo: 3.022170
+
+Cycle 456 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059655
+Tempo do ciclo: 3.013116
+
+Cycle 457 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059331
+Tempo do ciclo: 3.025941
+
+Cycle 458 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059507
+Tempo do ciclo: 3.024164
+
+Cycle 459 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059238
+Tempo do ciclo: 3.026080
+
+Cycle 460 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059419
+Tempo do ciclo: 3.007178
+
+Cycle 461 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059291
+Tempo do ciclo: 3.022271
+
+Cycle 462 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059052
+Tempo do ciclo: 3.029408
+
+Cycle 463 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059074
+Tempo do ciclo: 3.023878
+
+Cycle 464 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059308
+Tempo do ciclo: 3.025381
+
+Cycle 465 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059247
+Tempo do ciclo: 3.024097
+
+Cycle 466 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059301
+Tempo do ciclo: 3.015252
+
+Cycle 467 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059402
+Tempo do ciclo: 3.037678
+
+Cycle 468 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059323
+Tempo do ciclo: 3.024692
+
+Cycle 469 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059631
+Tempo do ciclo: 3.038519
+
+Cycle 470 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059230
+Tempo do ciclo: 2.998545
+
+Cycle 471 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059405
+Tempo do ciclo: 3.030857
+
+Cycle 472 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059356
+Tempo do ciclo: 3.018758
+
+Cycle 473 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059660
+Tempo do ciclo: 3.039670
+
+Cycle 474 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059521
+Tempo do ciclo: 3.016230
+
+Cycle 475 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059522
+Tempo do ciclo: 3.041514
+
+Cycle 476 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059583
+Tempo do ciclo: 3.027095
+
+Cycle 477 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059260
+Tempo do ciclo: 3.013124
+
+Cycle 478 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059241
+Tempo do ciclo: 3.018118
+
+Cycle 479 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059431
+Tempo do ciclo: 2.997694
+
+Cycle 480 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058864
+Tempo do ciclo: 3.018576
+
+Cycle 481 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058830
+Tempo do ciclo: 3.036153
+
+Cycle 482 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059181
+Tempo do ciclo: 3.037093
+
+Cycle 483 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059124
+Tempo do ciclo: 3.027914
+
+Cycle 484 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059032
+Tempo do ciclo: 3.053498
+
+Cycle 485 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058818
+Tempo do ciclo: 3.011968
+
+Cycle 486 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058968
+Tempo do ciclo: 3.012413
+
+Cycle 487 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058793
+Tempo do ciclo: 3.029347
+
+Cycle 488 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059014
+Tempo do ciclo: 3.040347
+
+Cycle 489 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058753
+Tempo do ciclo: 3.024243
+
+Cycle 490 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058998
+Tempo do ciclo: 3.042911
+
+Cycle 491 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058935
+Tempo do ciclo: 3.036264
+
+Cycle 492 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058854
+Tempo do ciclo: 3.021241
+
+Cycle 493 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059335
+Tempo do ciclo: 3.044565
+
+Cycle 494 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058939
+Tempo do ciclo: 3.045831
+
+Cycle 495 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058994
+Tempo do ciclo: 3.037273
+
+Cycle 496 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059056
+Tempo do ciclo: 3.012286
+
+Cycle 497 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058942
+Tempo do ciclo: 3.035091
+
+Cycle 498 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058791
+Tempo do ciclo: 3.021786
+
+Cycle 499 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059217
+Tempo do ciclo: 3.028943
+
+Cycle 500 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059182
+Tempo do ciclo: 3.034374
+
+Cycle 501 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059236
+Tempo do ciclo: 3.021594
+
+Cycle 502 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059080
+Tempo do ciclo: 3.035356
+
+Cycle 503 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058836
+Tempo do ciclo: 3.006231
+
+Cycle 504 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059393
+Tempo do ciclo: 3.048335
+
+Cycle 505 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059332
+Tempo do ciclo: 3.039791
+
+Cycle 506 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059127
+Tempo do ciclo: 3.043174
+
+Cycle 507 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058798
+Tempo do ciclo: 3.041751
+
+Cycle 508 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059105
+Tempo do ciclo: 3.028984
+
+Cycle 509 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059210
+Tempo do ciclo: 3.034816
+
+Cycle 510 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059306
+Tempo do ciclo: 2.970025
+
+Cycle 511 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059094
+Tempo do ciclo: 3.027868
+
+Cycle 512 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059053
+Tempo do ciclo: 3.033663
+
+Cycle 513 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059300
+Tempo do ciclo: 3.007457
+
+Cycle 514 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059058
+Tempo do ciclo: 3.031030
+
+Cycle 515 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059023
+Tempo do ciclo: 3.010259
+
+Cycle 516 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059581
+Tempo do ciclo: 3.019540
+
+Cycle 517 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059347
+Tempo do ciclo: 3.019293
+
+Cycle 518 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059461
+Tempo do ciclo: 3.006482
+
+Cycle 519 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059276
+Tempo do ciclo: 3.022532
+
+Cycle 520 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059256
+Tempo do ciclo: 3.020750
+
+Cycle 521 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059247
+Tempo do ciclo: 3.018077
+
+Cycle 522 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059196
+Tempo do ciclo: 3.053849
+
+Cycle 523 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059001
+Tempo do ciclo: 3.036694
+
+Cycle 524 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059000
+Tempo do ciclo: 3.027953
+
+Cycle 525 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058809
+Tempo do ciclo: 3.020859
+
+Cycle 526 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058620
+Tempo do ciclo: 3.034943
+
+Cycle 527 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059303
+Tempo do ciclo: 3.040936
+
+Cycle 528 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059263
+Tempo do ciclo: 3.020833
+
+Cycle 529 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059316
+Tempo do ciclo: 3.013288
+
+Cycle 530 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059698
+Tempo do ciclo: 3.014066
+
+Cycle 531 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059305
+Tempo do ciclo: 3.031995
+
+Cycle 532 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059167
+Tempo do ciclo: 3.030885
+
+Cycle 533 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058902
+Tempo do ciclo: 3.028511
+
+Cycle 534 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059176
+Tempo do ciclo: 3.034668
+
+Cycle 535 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059377
+Tempo do ciclo: 3.022585
+
+Cycle 536 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059489
+Tempo do ciclo: 3.011274
+
+Cycle 537 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059797
+Tempo do ciclo: 3.024391
+
+Cycle 538 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059493
+Tempo do ciclo: 3.017879
+
+Cycle 539 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059449
+Tempo do ciclo: 3.025352
+
+Cycle 540 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059357
+Tempo do ciclo: 3.031891
+
+Cycle 541 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059559
+Tempo do ciclo: 3.005810
+
+Cycle 542 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059663
+Tempo do ciclo: 3.009967
+
+Cycle 543 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059603
+Tempo do ciclo: 3.024841
+
+Cycle 544 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059651
+Tempo do ciclo: 3.037042
+
+Cycle 545 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059577
+Tempo do ciclo: 3.035404
+
+Cycle 546 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059769
+Tempo do ciclo: 3.039720
+
+Cycle 547 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059480
+Tempo do ciclo: 3.034508
+
+Cycle 548 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059521
+Tempo do ciclo: 3.018579
+
+Cycle 549 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059409
+Tempo do ciclo: 3.035449
+
+Cycle 550 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059674
+Tempo do ciclo: 3.039066
+
+Cycle 551 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059648
+Tempo do ciclo: 3.040607
+
+Cycle 552 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059832
+Tempo do ciclo: 3.006637
+
+Cycle 553 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059790
+Tempo do ciclo: 3.038673
+
+Cycle 554 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059762
+Tempo do ciclo: 3.004629
+
+Cycle 555 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059799
+Tempo do ciclo: 3.045261
+
+Cycle 556 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059657
+Tempo do ciclo: 3.026467
+
+Cycle 557 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059488
+Tempo do ciclo: 2.997017
+
+Cycle 558 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059804
+Tempo do ciclo: 3.026974
+
+Cycle 559 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059620
+Tempo do ciclo: 3.031056
+
+Cycle 560 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059616
+Tempo do ciclo: 3.026772
+
+Cycle 561 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059654
+Tempo do ciclo: 3.028473
+
+Cycle 562 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059885
+Tempo do ciclo: 3.018550
+
+Cycle 563 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060086
+Tempo do ciclo: 3.030089
+
+Cycle 564 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059913
+Tempo do ciclo: 3.040802
+
+Cycle 565 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059894
+Tempo do ciclo: 3.034961
+
+Cycle 566 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059998
+Tempo do ciclo: 3.045302
+
+Cycle 567 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059860
+Tempo do ciclo: 3.015739
+
+Cycle 568 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059637
+Tempo do ciclo: 3.026172
+
+Cycle 569 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059826
+Tempo do ciclo: 3.039441
+
+Cycle 570 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059371
+Tempo do ciclo: 3.019001
+
+Cycle 571 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059249
+Tempo do ciclo: 3.016142
+
+Cycle 572 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059326
+Tempo do ciclo: 3.036650
+
+Cycle 573 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059151
+Tempo do ciclo: 3.040882
+
+Cycle 574 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059149
+Tempo do ciclo: 3.011072
+
+Cycle 575 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059205
+Tempo do ciclo: 3.006834
+
+Cycle 576 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059918
+Tempo do ciclo: 2.990377
+
+Cycle 577 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059295
+Tempo do ciclo: 3.040187
+
+Cycle 578 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059265
+Tempo do ciclo: 3.013848
+
+Cycle 579 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059135
+Tempo do ciclo: 3.020601
+
+Cycle 580 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058929
+Tempo do ciclo: 3.018916
+
+Cycle 581 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058916
+Tempo do ciclo: 3.020629
+
+Cycle 582 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058495
+Tempo do ciclo: 3.029354
+
+Cycle 583 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058830
+Tempo do ciclo: 3.029227
+
+Cycle 584 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058694
+Tempo do ciclo: 3.049024
+
+Cycle 585 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058756
+Tempo do ciclo: 3.039381
+
+Cycle 586 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058739
+Tempo do ciclo: 3.002289
+
+Cycle 587 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058726
+Tempo do ciclo: 3.039569
+
+Cycle 588 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058960
+Tempo do ciclo: 3.015360
+
+Cycle 589 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058791
+Tempo do ciclo: 3.005176
+
+Cycle 590 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058739
+Tempo do ciclo: 3.047417
+
+Cycle 591 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058806
+Tempo do ciclo: 3.008852
+
+Cycle 592 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059241
+Tempo do ciclo: 3.021783
+
+Cycle 593 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059480
+Tempo do ciclo: 3.023820
+
+Cycle 594 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059382
+Tempo do ciclo: 3.033448
+
+Cycle 595 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058896
+Tempo do ciclo: 3.012958
+
+Cycle 596 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059223
+Tempo do ciclo: 3.047645
+
+Cycle 597 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059315
+Tempo do ciclo: 3.005020
+
+Cycle 598 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059354
+Tempo do ciclo: 3.029715
+
+Cycle 599 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059150
+Tempo do ciclo: 3.003336
+
+Cycle 600 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059426
+Tempo do ciclo: 3.042535
+
+Cycle 601 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059877
+Tempo do ciclo: 3.026746
+
+Cycle 602 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059856
+Tempo do ciclo: 3.018676
+
+Cycle 603 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059617
+Tempo do ciclo: 3.032230
+
+Cycle 604 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059743
+Tempo do ciclo: 3.012099
+
+Cycle 605 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059486
+Tempo do ciclo: 3.013153
+
+Cycle 606 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059623
+Tempo do ciclo: 3.022494
+
+Cycle 607 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059762
+Tempo do ciclo: 3.042819
+
+Cycle 608 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059568
+Tempo do ciclo: 3.012437
+
+Cycle 609 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058903
+Tempo do ciclo: 3.034087
+
+Cycle 610 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058950
+Tempo do ciclo: 3.017049
+
+Cycle 611 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059468
+Tempo do ciclo: 3.023017
+
+Cycle 612 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059315
+Tempo do ciclo: 3.026553
+
+Cycle 613 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059104
+Tempo do ciclo: 3.025793
+
+Cycle 614 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058844
+Tempo do ciclo: 3.025199
+
+Cycle 615 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059332
+Tempo do ciclo: 3.000948
+
+Cycle 616 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059204
+Tempo do ciclo: 2.997939
+
+Cycle 617 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058982
+Tempo do ciclo: 3.025802
+
+Cycle 618 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059218
+Tempo do ciclo: 3.011036
+
+Cycle 619 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058941
+Tempo do ciclo: 3.042070
+
+Cycle 620 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059039
+Tempo do ciclo: 3.067118
+
+Cycle 621 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058879
+Tempo do ciclo: 3.019024
+
+Cycle 622 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059293
+Tempo do ciclo: 3.027136
+
+Cycle 623 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059131
+Tempo do ciclo: 3.034344
+
+Cycle 624 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059245
+Tempo do ciclo: 3.029809
+
+Cycle 625 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059522
+Tempo do ciclo: 3.023913
+
+Cycle 626 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059472
+Tempo do ciclo: 2.995389
+
+Cycle 627 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059382
+Tempo do ciclo: 3.008663
+
+Cycle 628 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059052
+Tempo do ciclo: 3.000904
+
+Cycle 629 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059012
+Tempo do ciclo: 3.036082
+
+Cycle 630 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059024
+Tempo do ciclo: 3.029383
+
+Cycle 631 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059547
+Tempo do ciclo: 3.045595
+
+Cycle 632 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059321
+Tempo do ciclo: 3.017402
+
+Cycle 633 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059041
+Tempo do ciclo: 3.031697
+
+Cycle 634 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059013
+Tempo do ciclo: 3.024647
+
+Cycle 635 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059400
+Tempo do ciclo: 3.032560
+
+Cycle 636 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059499
+Tempo do ciclo: 3.036964
+
+Cycle 637 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059317
+Tempo do ciclo: 3.043474
+
+Cycle 638 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059274
+Tempo do ciclo: 3.003940
+
+Cycle 639 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059303
+Tempo do ciclo: 3.005760
+
+Cycle 640 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059490
+Tempo do ciclo: 3.016087
+
+Cycle 641 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059305
+Tempo do ciclo: 3.042337
+
+Cycle 642 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059284
+Tempo do ciclo: 3.041713
+
+Cycle 643 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059287
+Tempo do ciclo: 3.034668
+
+Cycle 644 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059024
+Tempo do ciclo: 3.019774
+
+Cycle 645 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059248
+Tempo do ciclo: 3.043196
+
+Cycle 646 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059686
+Tempo do ciclo: 3.019758
+
+Cycle 647 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059514
+Tempo do ciclo: 3.030390
+
+Cycle 648 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059609
+Tempo do ciclo: 3.017880
+
+Cycle 649 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059436
+Tempo do ciclo: 3.031987
+
+Cycle 650 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059775
+Tempo do ciclo: 3.030924
+
+Cycle 651 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059516
+Tempo do ciclo: 3.038024
+
+Cycle 652 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059281
+Tempo do ciclo: 3.027554
+
+Cycle 653 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059432
+Tempo do ciclo: 3.015676
+
+Cycle 654 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059230
+Tempo do ciclo: 3.022852
+
+Cycle 655 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059195
+Tempo do ciclo: 3.034655
+
+Cycle 656 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059238
+Tempo do ciclo: 3.009942
+
+Cycle 657 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059220
+Tempo do ciclo: 3.029130
+
+Cycle 658 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059444
+Tempo do ciclo: 3.025219
+
+Cycle 659 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059176
+Tempo do ciclo: 3.024012
+
+Cycle 660 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059030
+Tempo do ciclo: 3.022106
+
+Cycle 661 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059100
+Tempo do ciclo: 3.012895
+
+Cycle 662 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059312
+Tempo do ciclo: 3.056667
+
+Cycle 663 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059418
+Tempo do ciclo: 3.034937
+
+Cycle 664 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059208
+Tempo do ciclo: 3.019555
+
+Cycle 665 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059226
+Tempo do ciclo: 3.022030
+
+Cycle 666 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059526
+Tempo do ciclo: 3.015468
+
+Cycle 667 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059116
+Tempo do ciclo: 3.022815
+
+Cycle 668 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059598
+Tempo do ciclo: 3.015411
+
+Cycle 669 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059431
+Tempo do ciclo: 3.020128
+
+Cycle 670 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059470
+Tempo do ciclo: 3.025274
+
+Cycle 671 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059645
+Tempo do ciclo: 3.013674
+
+Cycle 672 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059421
+Tempo do ciclo: 3.014871
+
+Cycle 673 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058987
+Tempo do ciclo: 3.025068
+
+Cycle 674 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058772
+Tempo do ciclo: 3.040823
+
+Cycle 675 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058558
+Tempo do ciclo: 3.000531
+
+Cycle 676 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058819
+Tempo do ciclo: 3.002734
+
+Cycle 677 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058993
+Tempo do ciclo: 3.005116
+
+Cycle 678 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058561
+Tempo do ciclo: 3.018322
+
+Cycle 679 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059236
+Tempo do ciclo: 3.019419
+
+Cycle 680 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059374
+Tempo do ciclo: 3.024461
+
+Cycle 681 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059504
+Tempo do ciclo: 3.005245
+
+Cycle 682 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058912
+Tempo do ciclo: 3.025925
+
+Cycle 683 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058910
+Tempo do ciclo: 3.001475
+
+Cycle 684 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058999
+Tempo do ciclo: 3.041566
+
+Cycle 685 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058562
+Tempo do ciclo: 3.012877
+
+Cycle 686 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059128
+Tempo do ciclo: 3.013434
+
+Cycle 687 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058953
+Tempo do ciclo: 3.010560
+
+Cycle 688 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059045
+Tempo do ciclo: 3.031491
+
+Cycle 689 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058955
+Tempo do ciclo: 3.015274
+
+Cycle 690 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059351
+Tempo do ciclo: 3.044616
+
+Cycle 691 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059123
+Tempo do ciclo: 3.009874
+
+Cycle 692 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058933
+Tempo do ciclo: 3.007265
+
+Cycle 693 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059137
+Tempo do ciclo: 3.019760
+
+Cycle 694 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059593
+Tempo do ciclo: 3.050135
+
+Cycle 695 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059109
+Tempo do ciclo: 3.044008
+
+Cycle 696 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059260
+Tempo do ciclo: 3.027828
+
+Cycle 697 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059850
+Tempo do ciclo: 3.001273
+
+Cycle 698 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059460
+Tempo do ciclo: 3.046949
+
+Cycle 699 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059538
+Tempo do ciclo: 3.010334
+
+Cycle 700 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059672
+Tempo do ciclo: 3.046299
+
+Cycle 701 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059330
+Tempo do ciclo: 3.028273
+
+Cycle 702 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058938
+Tempo do ciclo: 3.038525
+
+Cycle 703 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058859
+Tempo do ciclo: 3.018423
+
+Cycle 704 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059106
+Tempo do ciclo: 3.029650
+
+Cycle 705 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059075
+Tempo do ciclo: 3.005034
+
+Cycle 706 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058979
+Tempo do ciclo: 3.017643
+
+Cycle 707 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059108
+Tempo do ciclo: 3.014111
+
+Cycle 708 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058995
+Tempo do ciclo: 3.038785
+
+Cycle 709 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058986
+Tempo do ciclo: 3.033374
+
+Cycle 710 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059366
+Tempo do ciclo: 3.042154
+
+Cycle 711 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058976
+Tempo do ciclo: 3.008491
+
+Cycle 712 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059064
+Tempo do ciclo: 3.012500
+
+Cycle 713 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059055
+Tempo do ciclo: 3.040169
+
+Cycle 714 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059375
+Tempo do ciclo: 3.041648
+
+Cycle 715 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059211
+Tempo do ciclo: 3.029739
+
+Cycle 716 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059416
+Tempo do ciclo: 3.015342
+
+Cycle 717 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059532
+Tempo do ciclo: 3.038359
+
+Cycle 718 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058900
+Tempo do ciclo: 3.061105
+
+Cycle 719 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059460
+Tempo do ciclo: 3.024945
+
+Cycle 720 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059862
+Tempo do ciclo: 3.018545
+
+Cycle 721 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059382
+Tempo do ciclo: 3.009380
+
+Cycle 722 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059425
+Tempo do ciclo: 3.027562
+
+Cycle 723 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059042
+Tempo do ciclo: 3.027011
+
+Cycle 724 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059447
+Tempo do ciclo: 3.021380
+
+Cycle 725 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058978
+Tempo do ciclo: 3.041485
+
+Cycle 726 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059063
+Tempo do ciclo: 3.017936
+
+Cycle 727 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059338
+Tempo do ciclo: 3.025622
+
+Cycle 728 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059089
+Tempo do ciclo: 3.004206
+
+Cycle 729 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058658
+Tempo do ciclo: 3.026193
+
+Cycle 730 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059117
+Tempo do ciclo: 2.992151
+
+Cycle 731 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058528
+Tempo do ciclo: 3.033190
+
+Cycle 732 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058963
+Tempo do ciclo: 3.025374
+
+Cycle 733 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059416
+Tempo do ciclo: 3.015731
+
+Cycle 734 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059198
+Tempo do ciclo: 3.029283
+
+Cycle 735 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058963
+Tempo do ciclo: 3.034387
+
+Cycle 736 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058964
+Tempo do ciclo: 3.046418
+
+Cycle 737 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059295
+Tempo do ciclo: 3.021849
+
+Cycle 738 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058973
+Tempo do ciclo: 3.029033
+
+Cycle 739 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058867
+Tempo do ciclo: 3.017422
+
+Cycle 740 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059192
+Tempo do ciclo: 3.027016
+
+Cycle 741 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059007
+Tempo do ciclo: 3.022642
+
+Cycle 742 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059171
+Tempo do ciclo: 3.046147
+
+Cycle 743 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059637
+Tempo do ciclo: 3.028803
+
+Cycle 744 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059431
+Tempo do ciclo: 3.009257
+
+Cycle 745 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059030
+Tempo do ciclo: 2.999537
+
+Cycle 746 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058687
+Tempo do ciclo: 3.029913
+
+Cycle 747 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059075
+Tempo do ciclo: 3.034547
+
+Cycle 748 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058784
+Tempo do ciclo: 3.031702
+
+Cycle 749 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059008
+Tempo do ciclo: 3.015378
+
+Cycle 750 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058848
+Tempo do ciclo: 3.005916
+
+Cycle 751 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058744
+Tempo do ciclo: 2.994339
+
+Cycle 752 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058734
+Tempo do ciclo: 3.026425
+
+Cycle 753 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059516
+Tempo do ciclo: 3.031619
+
+Cycle 754 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059044
+Tempo do ciclo: 3.018445
+
+Cycle 755 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058785
+Tempo do ciclo: 3.043378
+
+Cycle 756 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058556
+Tempo do ciclo: 3.010064
+
+Cycle 757 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058782
+Tempo do ciclo: 3.033625
+
+Cycle 758 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059061
+Tempo do ciclo: 3.037838
+
+Cycle 759 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058842
+Tempo do ciclo: 3.054116
+
+Cycle 760 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059066
+Tempo do ciclo: 3.008788
+
+Cycle 761 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058704
+Tempo do ciclo: 3.036062
+
+Cycle 762 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058331
+Tempo do ciclo: 3.022733
+
+Cycle 763 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058680
+Tempo do ciclo: 3.046517
+
+Cycle 764 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058321
+Tempo do ciclo: 3.040791
+
+Cycle 765 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058010
+Tempo do ciclo: 3.028181
+
+Cycle 766 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.057907
+Tempo do ciclo: 3.040567
+
+Cycle 767 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058124
+Tempo do ciclo: 3.022968
+
+Cycle 768 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.057765
+Tempo do ciclo: 2.988716
+
+Cycle 769 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.057780
+Tempo do ciclo: 3.023995
+
+Cycle 770 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058465
+Tempo do ciclo: 3.026212
+
+Cycle 771 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058049
+Tempo do ciclo: 3.051329
+
+Cycle 772 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058395
+Tempo do ciclo: 3.022940
+
+Cycle 773 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058609
+Tempo do ciclo: 3.018425
+
+Cycle 774 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058176
+Tempo do ciclo: 2.991094
+
+Cycle 775 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.057967
+Tempo do ciclo: 3.025114
+
+Cycle 776 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058808
+Tempo do ciclo: 3.041222
+
+Cycle 777 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058314
+Tempo do ciclo: 3.041386
+
+Cycle 778 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058394
+Tempo do ciclo: 3.041906
+
+Cycle 779 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058605
+Tempo do ciclo: 3.022614
+
+Cycle 780 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058515
+Tempo do ciclo: 3.037538
+
+Cycle 781 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058162
+Tempo do ciclo: 3.025377
+
+Cycle 782 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058461
+Tempo do ciclo: 3.024555
+
+Cycle 783 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058613
+Tempo do ciclo: 3.041023
+
+Cycle 784 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058394
+Tempo do ciclo: 3.031877
+
+Cycle 785 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058596
+Tempo do ciclo: 3.025294
+
+Cycle 786 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058937
+Tempo do ciclo: 3.034869
+
+Cycle 787 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058546
+Tempo do ciclo: 3.018086
+
+Cycle 788 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058508
+Tempo do ciclo: 3.011236
+
+Cycle 789 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058632
+Tempo do ciclo: 3.066540
+
+Cycle 790 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058494
+Tempo do ciclo: 3.036571
+
+Cycle 791 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058287
+Tempo do ciclo: 3.020022
+
+Cycle 792 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058382
+Tempo do ciclo: 3.021451
+
+Cycle 793 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058912
+Tempo do ciclo: 3.008727
+
+Cycle 794 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058619
+Tempo do ciclo: 3.023649
+
+Cycle 795 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058752
+Tempo do ciclo: 3.025660
+
+Cycle 796 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058858
+Tempo do ciclo: 3.001976
+
+Cycle 797 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059045
+Tempo do ciclo: 3.001845
+
+Cycle 798 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058489
+Tempo do ciclo: 3.013108
+
+Cycle 799 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058590
+Tempo do ciclo: 3.011922
+
+Cycle 800 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058912
+Tempo do ciclo: 3.050552
+
+Cycle 801 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058392
+Tempo do ciclo: 2.998760
+
+Cycle 802 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058971
+Tempo do ciclo: 3.022903
+
+Cycle 803 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058847
+Tempo do ciclo: 2.985332
+
+Cycle 804 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059562
+Tempo do ciclo: 3.040017
+
+Cycle 805 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059345
+Tempo do ciclo: 3.030119
+
+Cycle 806 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059713
+Tempo do ciclo: 3.019963
+
+Cycle 807 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059329
+Tempo do ciclo: 3.022046
+
+Cycle 808 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059477
+Tempo do ciclo: 3.022502
+
+Cycle 809 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059278
+Tempo do ciclo: 3.043652
+
+Cycle 810 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059555
+Tempo do ciclo: 3.037346
+
+Cycle 811 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059275
+Tempo do ciclo: 3.012461
+
+Cycle 812 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059293
+Tempo do ciclo: 3.009841
+
+Cycle 813 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.060049
+Tempo do ciclo: 3.027197
+
+Cycle 814 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059781
+Tempo do ciclo: 3.021534
+
+Cycle 815 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059889
+Tempo do ciclo: 3.041834
+
+Cycle 816 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059846
+Tempo do ciclo: 3.012750
+
+Cycle 817 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059377
+Tempo do ciclo: 3.021558
+
+Cycle 818 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058928
+Tempo do ciclo: 3.036272
+
+Cycle 819 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059299
+Tempo do ciclo: 2.999904
+
+Cycle 820 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059061
+Tempo do ciclo: 3.006680
+
+Cycle 821 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059160
+Tempo do ciclo: 3.028307
+
+Cycle 822 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059162
+Tempo do ciclo: 3.023451
+
+Cycle 823 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058872
+Tempo do ciclo: 2.998801
+
+Cycle 824 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058909
+Tempo do ciclo: 3.042200
+
+Cycle 825 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058672
+Tempo do ciclo: 3.004024
+
+Cycle 826 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058753
+Tempo do ciclo: 2.985530
+
+Cycle 827 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059210
+Tempo do ciclo: 3.027528
+
+Cycle 828 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059266
+Tempo do ciclo: 3.031107
+
+Cycle 829 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059517
+Tempo do ciclo: 3.036368
+
+Cycle 830 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059294
+Tempo do ciclo: 3.024736
+
+Cycle 831 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059291
+Tempo do ciclo: 3.018471
+
+Cycle 832 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059380
+Tempo do ciclo: 2.994243
+
+Cycle 833 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059638
+Tempo do ciclo: 3.039817
+
+Cycle 834 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059290
+Tempo do ciclo: 3.010389
+
+Cycle 835 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059257
+Tempo do ciclo: 3.042235
+
+Cycle 836 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059081
+Tempo do ciclo: 3.013246
+
+Cycle 837 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059136
+Tempo do ciclo: 3.019195
+
+Cycle 838 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059054
+Tempo do ciclo: 3.055774
+
+Cycle 839 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059272
+Tempo do ciclo: 3.048422
+
+Cycle 840 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059800
+Tempo do ciclo: 3.017765
+
+Cycle 841 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059364
+Tempo do ciclo: 3.015665
+
+Cycle 842 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059304
+Tempo do ciclo: 3.038549
+
+Cycle 843 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059322
+Tempo do ciclo: 3.025783
+
+Cycle 844 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059205
+Tempo do ciclo: 3.004903
+
+Cycle 845 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059148
+Tempo do ciclo: 3.037006
+
+Cycle 846 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059354
+Tempo do ciclo: 3.019424
+
+Cycle 847 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059413
+Tempo do ciclo: 3.000282
+
+Cycle 848 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059338
+Tempo do ciclo: 3.028093
+
+Cycle 849 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059262
+Tempo do ciclo: 2.999741
+
+Cycle 850 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059495
+Tempo do ciclo: 3.014330
+
+Cycle 851 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059626
+Tempo do ciclo: 3.031099
+
+Cycle 852 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059701
+Tempo do ciclo: 3.056930
+
+Cycle 853 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059766
+Tempo do ciclo: 3.025824
+
+Cycle 854 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059714
+Tempo do ciclo: 3.016854
+
+Cycle 855 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059204
+Tempo do ciclo: 3.054368
+
+Cycle 856 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059753
+Tempo do ciclo: 3.041650
+
+Cycle 857 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059800
+Tempo do ciclo: 3.002641
+
+Cycle 858 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059735
+Tempo do ciclo: 3.024693
+
+Cycle 859 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059724
+Tempo do ciclo: 3.042726
+
+Cycle 860 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059684
+Tempo do ciclo: 3.032340
+
+Cycle 861 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059899
+Tempo do ciclo: 3.030486
+
+Cycle 862 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059504
+Tempo do ciclo: 3.021119
+
+Cycle 863 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059407
+Tempo do ciclo: 3.039652
+
+Cycle 864 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059072
+Tempo do ciclo: 3.040777
+
+Cycle 865 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059391
+Tempo do ciclo: 3.022172
+
+Cycle 866 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059203
+Tempo do ciclo: 3.000588
+
+Cycle 867 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059243
+Tempo do ciclo: 3.045261
+
+Cycle 868 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059282
+Tempo do ciclo: 3.024124
+
+Cycle 869 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059396
+Tempo do ciclo: 3.037319
+
+Cycle 870 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059269
+Tempo do ciclo: 3.045676
+
+Cycle 871 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059220
+Tempo do ciclo: 3.026308
+
+Cycle 872 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059134
+Tempo do ciclo: 3.051981
+
+Cycle 873 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059496
+Tempo do ciclo: 3.023710
+
+Cycle 874 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059299
+Tempo do ciclo: 3.006699
+
+Cycle 875 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059255
+Tempo do ciclo: 2.998208
+
+Cycle 876 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059436
+Tempo do ciclo: 3.062607
+
+Cycle 877 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059350
+Tempo do ciclo: 3.041149
+
+Cycle 878 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058963
+Tempo do ciclo: 2.985398
+
+Cycle 879 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059253
+Tempo do ciclo: 3.025065
+
+Cycle 880 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059552
+Tempo do ciclo: 3.024702
+
+Cycle 881 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059192
+Tempo do ciclo: 3.024810
+
+Cycle 882 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059352
+Tempo do ciclo: 3.015674
+
+Cycle 883 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059164
+Tempo do ciclo: 3.032191
+
+Cycle 884 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059141
+Tempo do ciclo: 3.025464
+
+Cycle 885 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059113
+Tempo do ciclo: 3.004495
+
+Cycle 886 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059142
+Tempo do ciclo: 3.002810
+
+Cycle 887 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059355
+Tempo do ciclo: 3.010260
+
+Cycle 888 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059006
+Tempo do ciclo: 3.030300
+
+Cycle 889 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059150
+Tempo do ciclo: 3.037292
+
+Cycle 890 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059369
+Tempo do ciclo: 3.026629
+
+Cycle 891 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059267
+Tempo do ciclo: 3.030099
+
+Cycle 892 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059046
+Tempo do ciclo: 3.021938
+
+Cycle 893 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059207
+Tempo do ciclo: 3.043498
+
+Cycle 894 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059229
+Tempo do ciclo: 3.008118
+
+Cycle 895 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059207
+Tempo do ciclo: 3.028770
+
+Cycle 896 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059333
+Tempo do ciclo: 3.030158
+
+Cycle 897 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059339
+Tempo do ciclo: 3.042561
+
+Cycle 898 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059055
+Tempo do ciclo: 3.018237
+
+Cycle 899 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059221
+Tempo do ciclo: 3.028483
+
+Cycle 900 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059012
+Tempo do ciclo: 3.021245
+
+Cycle 901 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059329
+Tempo do ciclo: 3.042065
+
+Cycle 902 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059136
+Tempo do ciclo: 2.991270
+
+Cycle 903 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058980
+Tempo do ciclo: 3.043864
+
+Cycle 904 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059093
+Tempo do ciclo: 3.044241
+
+Cycle 905 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058664
+Tempo do ciclo: 3.033389
+
+Cycle 906 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059091
+Tempo do ciclo: 3.019770
+
+Cycle 907 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058713
+Tempo do ciclo: 3.021896
+
+Cycle 908 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058884
+Tempo do ciclo: 3.034403
+
+Cycle 909 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058818
+Tempo do ciclo: 3.041139
+
+Cycle 910 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059142
+Tempo do ciclo: 3.030509
+
+Cycle 911 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059090
+Tempo do ciclo: 3.006137
+
+Cycle 912 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058892
+Tempo do ciclo: 3.019049
+
+Cycle 913 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058909
+Tempo do ciclo: 3.001463
+
+Cycle 914 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059011
+Tempo do ciclo: 3.021085
+
+Cycle 915 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058985
+Tempo do ciclo: 3.015588
+
+Cycle 916 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059110
+Tempo do ciclo: 3.040955
+
+Cycle 917 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058850
+Tempo do ciclo: 2.984107
+
+Cycle 918 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059165
+Tempo do ciclo: 3.003630
+
+Cycle 919 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059009
+Tempo do ciclo: 3.016744
+
+Cycle 920 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059056
+Tempo do ciclo: 3.016098
+
+Cycle 921 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059688
+Tempo do ciclo: 3.039582
+
+Cycle 922 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059216
+Tempo do ciclo: 3.012513
+
+Cycle 923 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059047
+Tempo do ciclo: 3.035867
+
+Cycle 924 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059172
+Tempo do ciclo: 3.017233
+
+Cycle 925 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058772
+Tempo do ciclo: 3.025959
+
+Cycle 926 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058776
+Tempo do ciclo: 3.032159
+
+Cycle 927 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058767
+Tempo do ciclo: 3.027034
+
+Cycle 928 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058767
+Tempo do ciclo: 3.025637
+
+Cycle 929 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058737
+Tempo do ciclo: 3.033877
+
+Cycle 930 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058956
+Tempo do ciclo: 3.055771
+
+Cycle 931 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058977
+Tempo do ciclo: 3.027511
+
+Cycle 932 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059152
+Tempo do ciclo: 3.035850
+
+Cycle 933 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059359
+Tempo do ciclo: 3.016521
+
+Cycle 934 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059134
+Tempo do ciclo: 2.994704
+
+Cycle 935 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058925
+Tempo do ciclo: 3.013565
+
+Cycle 936 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059257
+Tempo do ciclo: 3.013458
+
+Cycle 937 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059205
+Tempo do ciclo: 3.013173
+
+Cycle 938 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059366
+Tempo do ciclo: 3.027127
+
+Cycle 939 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059025
+Tempo do ciclo: 3.024250
+
+Cycle 940 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058919
+Tempo do ciclo: 3.033598
+
+Cycle 941 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059165
+Tempo do ciclo: 3.034268
+
+Cycle 942 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059255
+Tempo do ciclo: 3.028332
+
+Cycle 943 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058974
+Tempo do ciclo: 3.060010
+
+Cycle 944 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059157
+Tempo do ciclo: 3.048870
+
+Cycle 945 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058893
+Tempo do ciclo: 3.030273
+
+Cycle 946 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058788
+Tempo do ciclo: 3.010056
+
+Cycle 947 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058812
+Tempo do ciclo: 3.020200
+
+Cycle 948 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058779
+Tempo do ciclo: 3.046861
+
+Cycle 949 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058849
+Tempo do ciclo: 3.021145
+
+Cycle 950 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058752
+Tempo do ciclo: 3.029213
+
+Cycle 951 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059092
+Tempo do ciclo: 3.019583
+
+Cycle 952 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058822
+Tempo do ciclo: 3.039552
+
+Cycle 953 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058561
+Tempo do ciclo: 3.001346
+
+Cycle 954 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058638
+Tempo do ciclo: 3.033688
+
+Cycle 955 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058748
+Tempo do ciclo: 3.029998
+
+Cycle 956 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058795
+Tempo do ciclo: 3.057246
+
+Cycle 957 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058885
+Tempo do ciclo: 3.008143
+
+Cycle 958 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058483
+Tempo do ciclo: 3.019741
+
+Cycle 959 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058554
+Tempo do ciclo: 3.029744
+
+Cycle 960 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058620
+Tempo do ciclo: 3.011436
+
+Cycle 961 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058743
+Tempo do ciclo: 3.055333
+
+Cycle 962 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059035
+Tempo do ciclo: 3.035435
+
+Cycle 963 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058795
+Tempo do ciclo: 3.021215
+
+Cycle 964 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059075
+Tempo do ciclo: 3.053046
+
+Cycle 965 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058928
+Tempo do ciclo: 2.982170
+
+Cycle 966 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059090
+Tempo do ciclo: 3.049535
+
+Cycle 967 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058834
+Tempo do ciclo: 3.033354
+
+Cycle 968 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058879
+Tempo do ciclo: 3.038859
+
+Cycle 969 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058832
+Tempo do ciclo: 3.035071
+
+Cycle 970 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058907
+Tempo do ciclo: 3.020882
+
+Cycle 971 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059349
+Tempo do ciclo: 3.027636
+
+Cycle 972 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059074
+Tempo do ciclo: 3.035528
+
+Cycle 973 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059034
+Tempo do ciclo: 3.022910
+
+Cycle 974 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058922
+Tempo do ciclo: 3.004909
+
+Cycle 975 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058670
+Tempo do ciclo: 3.031462
+
+Cycle 976 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058750
+Tempo do ciclo: 3.011290
+
+Cycle 977 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058839
+Tempo do ciclo: 3.010450
+
+Cycle 978 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058612
+Tempo do ciclo: 3.037293
+
+Cycle 979 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058787
+Tempo do ciclo: 3.034866
+
+Cycle 980 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058795
+Tempo do ciclo: 3.028167
+
+Cycle 981 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058464
+Tempo do ciclo: 3.029492
+
+Cycle 982 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058737
+Tempo do ciclo: 3.016102
+
+Cycle 983 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058282
+Tempo do ciclo: 3.013430
+
+Cycle 984 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058882
+Tempo do ciclo: 3.018943
+
+Cycle 985 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059017
+Tempo do ciclo: 3.022650
+
+Cycle 986 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058929
+Tempo do ciclo: 3.011318
+
+Cycle 987 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058821
+Tempo do ciclo: 3.041901
+
+Cycle 988 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059161
+Tempo do ciclo: 3.062218
+
+Cycle 989 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059262
+Tempo do ciclo: 3.037053
+
+Cycle 990 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059175
+Tempo do ciclo: 3.032354
+
+Cycle 991 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059335
+Tempo do ciclo: 3.022247
+
+Cycle 992 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059851
+Tempo do ciclo: 3.002832
+
+Cycle 993 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059220
+Tempo do ciclo: 3.038169
+
+Cycle 994 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059611
+Tempo do ciclo: 3.025440
+
+Cycle 995 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059341
+Tempo do ciclo: 3.033001
+
+Cycle 996 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059361
+Tempo do ciclo: 3.043950
+
+Cycle 997 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059258
+Tempo do ciclo: 3.041332
+
+Cycle 998 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059411
+Tempo do ciclo: 3.017075
+
+Cycle 999 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059302
+Tempo do ciclo: 3.040245
+
+Cycle 1000 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059282
+Tempo do ciclo: 3.034073
+
+Cycle 1001 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058939
+Tempo do ciclo: 3.031878
+
+Cycle 1002 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059253
+Tempo do ciclo: 3.027961
+
+Cycle 1003 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059339
+Tempo do ciclo: 3.016799
+
+Cycle 1004 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059032
+Tempo do ciclo: 3.034338
+
+Cycle 1005 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059180
+Tempo do ciclo: 3.015594
+
+Cycle 1006 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059501
+Tempo do ciclo: 3.045087
+
+Cycle 1007 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059258
+Tempo do ciclo: 3.028490
+
+Cycle 1008 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059174
+Tempo do ciclo: 3.034945
+
+Cycle 1009 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058982
+Tempo do ciclo: 3.046127
+
+Cycle 1010 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059056
+Tempo do ciclo: 2.992973
+
+Cycle 1011 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058954
+Tempo do ciclo: 3.003043
+
+Cycle 1012 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059096
+Tempo do ciclo: 3.032486
+
+Cycle 1013 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059054
+Tempo do ciclo: 3.026928
+
+Cycle 1014 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058888
+Tempo do ciclo: 3.043309
+
+Cycle 1015 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059001
+Tempo do ciclo: 3.009731
+
+Cycle 1016 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058867
+Tempo do ciclo: 3.028642
+
+Cycle 1017 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.058828
+Tempo do ciclo: 3.028329
+
+Cycle 1018 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059153
+Tempo do ciclo: 3.018571
+
+Cycle 1019 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059066
+Tempo do ciclo: 3.010156
+
+Cycle 1020 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059153
+Tempo do ciclo: 3.030407
+
+Cycle 1021 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059612
+Tempo do ciclo: 3.022913
+
+Cycle 1022 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059087
+Tempo do ciclo: 3.038808
+
+Cycle 1023 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059421
+Tempo do ciclo: 3.026706
+
+Cycle 1024 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059284
+Tempo do ciclo: 3.020727
+
+Cycle 1025 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059420
+Tempo do ciclo: 3.030148
+
+Cycle 1026 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059133
+Tempo do ciclo: 3.035325
+
+Cycle 1027 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059174
+Tempo do ciclo: 3.015495
+
+Cycle 1028 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059207
+Tempo do ciclo: 3.014837
+
+Cycle 1029 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059008
+Tempo do ciclo: 3.017489
+
+Cycle 1030 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059289
+Tempo do ciclo: 3.035724
+
+Cycle 1031 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059311
+Tempo do ciclo: 3.031568
+
+Cycle 1032 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059262
+Tempo do ciclo: 3.040182
+
+Cycle 1033 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059405
+Tempo do ciclo: 3.009929
+
+Cycle 1034 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059451
+Tempo do ciclo: 3.042188
+
+Cycle 1035 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059239
+Tempo do ciclo: 3.005070
+
+Cycle 1036 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059035
+Tempo do ciclo: 3.041501
+
+Cycle 1037 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059101
+Tempo do ciclo: 3.008517
+
+Cycle 1038 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059358
+Tempo do ciclo: 3.033850
+
+Cycle 1039 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059260
+Tempo do ciclo: 3.028851
+
+Cycle 1040 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059434
+Tempo do ciclo: 3.031918
+
+Cycle 1041 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059465
+Tempo do ciclo: 3.020718
+
+Cycle 1042 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059281
+Tempo do ciclo: 3.033779
+
+Cycle 1043 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059544
+Tempo do ciclo: 3.017182
+
+Cycle 1044 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059314
+Tempo do ciclo: 3.035934
+
+Cycle 1045 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059380
+Tempo do ciclo: 3.026651
+
+Cycle 1046 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059272
+Tempo do ciclo: 3.014232
+
+Cycle 1047 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059391
+Tempo do ciclo: 3.029805
+
+Cycle 1048 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059245
+Tempo do ciclo: 3.014369
+
+Cycle 1049 - Conflicts found: 6 (edges), 12 (vertices)
+Tempo do método ant_fixed_k: 1.059022
+Tempo do ciclo: 3.029147
+
+Cycle 1050 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059251
+Tempo do ciclo: 3.029569
+
+Cycle 1051 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059253
+Tempo do ciclo: 3.015969
+
+Cycle 1052 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059613
+Tempo do ciclo: 3.041329
+
+Cycle 1053 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059763
+Tempo do ciclo: 3.055785
+
+Cycle 1054 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059429
+Tempo do ciclo: 3.008363
+
+Cycle 1055 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059329
+Tempo do ciclo: 3.007210
+
+Cycle 1056 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059332
+Tempo do ciclo: 3.052109
+
+Cycle 1057 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059314
+Tempo do ciclo: 3.019271
+
+Cycle 1058 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059291
+Tempo do ciclo: 3.036876
+
+Cycle 1059 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059133
+Tempo do ciclo: 3.001167
+
+Cycle 1060 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059279
+Tempo do ciclo: 3.004008
+
+Cycle 1061 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059382
+Tempo do ciclo: 3.026553
+
+Cycle 1062 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059201
+Tempo do ciclo: 2.998864
+
+Cycle 1063 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059784
+Tempo do ciclo: 3.003915
+
+Cycle 1064 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059370
+Tempo do ciclo: 3.028876
+
+Cycle 1065 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059268
+Tempo do ciclo: 2.971515
+
+Cycle 1066 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059448
+Tempo do ciclo: 3.019927
+
+Cycle 1067 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059139
+Tempo do ciclo: 3.028775
+
+Cycle 1068 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059328
+Tempo do ciclo: 3.019428
+
+Cycle 1069 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059165
+Tempo do ciclo: 3.042130
+
+Cycle 1070 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059533
+Tempo do ciclo: 3.007089
+
+Cycle 1071 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059197
+Tempo do ciclo: 3.033821
+
+Cycle 1072 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.058733
+Tempo do ciclo: 3.028008
+
+Cycle 1073 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059115
+Tempo do ciclo: 3.027413
+
+Cycle 1074 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059036
+Tempo do ciclo: 3.006071
+
+Cycle 1075 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.058948
+Tempo do ciclo: 3.028380
+
+Cycle 1076 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059136
+Tempo do ciclo: 3.021768
+
+Cycle 1077 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059033
+Tempo do ciclo: 3.024604
+
+Cycle 1078 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059297
+Tempo do ciclo: 3.021929
+
+Cycle 1079 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.058745
+Tempo do ciclo: 3.039017
+
+Cycle 1080 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059072
+Tempo do ciclo: 3.036773
+
+Cycle 1081 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059033
+Tempo do ciclo: 3.031269
+
+Cycle 1082 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059021
+Tempo do ciclo: 3.021170
+
+Cycle 1083 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059200
+Tempo do ciclo: 3.036201
+
+Cycle 1084 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059570
+Tempo do ciclo: 3.012447
+
+Cycle 1085 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059373
+Tempo do ciclo: 3.004064
+
+Cycle 1086 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059251
+Tempo do ciclo: 3.016381
+
+Cycle 1087 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.058989
+Tempo do ciclo: 3.043405
+
+Cycle 1088 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059168
+Tempo do ciclo: 3.000382
+
+Cycle 1089 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059172
+Tempo do ciclo: 3.015156
+
+Cycle 1090 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059306
+Tempo do ciclo: 3.033459
+
+Cycle 1091 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059253
+Tempo do ciclo: 3.046500
+
+Cycle 1092 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059875
+Tempo do ciclo: 3.028214
+
+Cycle 1093 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059407
+Tempo do ciclo: 3.036757
+
+Cycle 1094 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059868
+Tempo do ciclo: 3.019121
+
+Cycle 1095 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059187
+Tempo do ciclo: 3.001448
+
+Cycle 1096 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059447
+Tempo do ciclo: 3.051909
+
+Cycle 1097 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059507
+Tempo do ciclo: 3.010725
+
+Cycle 1098 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059671
+Tempo do ciclo: 3.036761
+
+Cycle 1099 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059944
+Tempo do ciclo: 3.017522
+
+Cycle 1100 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059923
+Tempo do ciclo: 3.014939
+
+Cycle 1101 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059488
+Tempo do ciclo: 3.052708
+
+Cycle 1102 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059061
+Tempo do ciclo: 3.027100
+
+Cycle 1103 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059424
+Tempo do ciclo: 2.999997
+
+Cycle 1104 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059440
+Tempo do ciclo: 3.045679
+
+Cycle 1105 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059525
+Tempo do ciclo: 3.022532
+
+Cycle 1106 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059388
+Tempo do ciclo: 3.022927
+
+Cycle 1107 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059583
+Tempo do ciclo: 3.020358
+
+Cycle 1108 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059469
+Tempo do ciclo: 3.010939
+
+Cycle 1109 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059416
+Tempo do ciclo: 3.043141
+
+Cycle 1110 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059362
+Tempo do ciclo: 3.038585
+
+Cycle 1111 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059781
+Tempo do ciclo: 3.019449
+
+Cycle 1112 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059110
+Tempo do ciclo: 3.034473
+
+Cycle 1113 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059242
+Tempo do ciclo: 3.043405
+
+Cycle 1114 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059414
+Tempo do ciclo: 3.035285
+
+Cycle 1115 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059736
+Tempo do ciclo: 2.992578
+
+Cycle 1116 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059561
+Tempo do ciclo: 3.023933
+
+Cycle 1117 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059468
+Tempo do ciclo: 3.028676
+
+Cycle 1118 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059486
+Tempo do ciclo: 3.013666
+
+Cycle 1119 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059688
+Tempo do ciclo: 3.017806
+
+Cycle 1120 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059347
+Tempo do ciclo: 3.025697
+
+Cycle 1121 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059501
+Tempo do ciclo: 3.013573
+
+Cycle 1122 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059420
+Tempo do ciclo: 3.037803
+
+Cycle 1123 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059411
+Tempo do ciclo: 3.012301
+
+Cycle 1124 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059342
+Tempo do ciclo: 3.049628
+
+Cycle 1125 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059594
+Tempo do ciclo: 3.008062
+
+Cycle 1126 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059201
+Tempo do ciclo: 3.008971
+
+Cycle 1127 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059297
+Tempo do ciclo: 3.026101
+
+Cycle 1128 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.058897
+Tempo do ciclo: 3.024033
+
+Cycle 1129 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059212
+Tempo do ciclo: 3.035997
+
+Cycle 1130 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059071
+Tempo do ciclo: 3.029757
+
+Cycle 1131 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059538
+Tempo do ciclo: 3.027292
+
+Cycle 1132 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059471
+Tempo do ciclo: 3.024740
+
+Cycle 1133 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059310
+Tempo do ciclo: 3.026604
+
+Cycle 1134 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059461
+Tempo do ciclo: 3.044705
+
+Cycle 1135 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059319
+Tempo do ciclo: 3.001908
+
+Cycle 1136 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059153
+Tempo do ciclo: 3.021779
+
+Cycle 1137 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.058969
+Tempo do ciclo: 3.034020
+
+Cycle 1138 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059014
+Tempo do ciclo: 3.072732
+
+Cycle 1139 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059239
+Tempo do ciclo: 3.011468
+
+Cycle 1140 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059471
+Tempo do ciclo: 3.058988
+
+Cycle 1141 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059317
+Tempo do ciclo: 3.024068
+
+Cycle 1142 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059257
+Tempo do ciclo: 3.041183
+
+Cycle 1143 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059198
+Tempo do ciclo: 3.006141
+
+Cycle 1144 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059162
+Tempo do ciclo: 3.040941
+
+Cycle 1145 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059566
+Tempo do ciclo: 3.018998
+
+Cycle 1146 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059205
+Tempo do ciclo: 3.031975
+
+Cycle 1147 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.058998
+Tempo do ciclo: 3.012208
+
+Cycle 1148 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.058966
+Tempo do ciclo: 3.010832
+
+Cycle 1149 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059099
+Tempo do ciclo: 2.999616
+
+Cycle 1150 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059115
+Tempo do ciclo: 3.026345
+
+Cycle 1151 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059066
+Tempo do ciclo: 3.025798
+
+Cycle 1152 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059018
+Tempo do ciclo: 3.014977
+
+Cycle 1153 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.058956
+Tempo do ciclo: 3.023044
+
+Cycle 1154 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059178
+Tempo do ciclo: 3.037138
+
+Cycle 1155 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059134
+Tempo do ciclo: 3.001598
+
+Cycle 1156 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059308
+Tempo do ciclo: 3.004777
+
+Cycle 1157 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059641
+Tempo do ciclo: 3.026078
+
+Cycle 1158 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059359
+Tempo do ciclo: 3.021236
+
+Cycle 1159 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059523
+Tempo do ciclo: 3.022589
+
+Cycle 1160 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059229
+Tempo do ciclo: 3.053371
+
+Cycle 1161 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059108
+Tempo do ciclo: 3.037592
+
+Cycle 1162 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059087
+Tempo do ciclo: 3.017340
+
+Cycle 1163 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059270
+Tempo do ciclo: 2.977486
+
+Cycle 1164 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059706
+Tempo do ciclo: 3.025955
+
+Cycle 1165 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059260
+Tempo do ciclo: 3.020188
+
+Cycle 1166 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059868
+Tempo do ciclo: 3.015487
+
+Cycle 1167 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059393
+Tempo do ciclo: 3.018295
+
+Cycle 1168 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059339
+Tempo do ciclo: 3.038955
+
+Cycle 1169 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059325
+Tempo do ciclo: 3.022159
+
+Cycle 1170 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059498
+Tempo do ciclo: 3.037512
+
+Cycle 1171 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059678
+Tempo do ciclo: 3.042596
+
+Cycle 1172 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059495
+Tempo do ciclo: 3.010014
+
+Cycle 1173 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059502
+Tempo do ciclo: 3.040502
+
+Cycle 1174 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059659
+Tempo do ciclo: 3.049543
+
+Cycle 1175 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059431
+Tempo do ciclo: 3.036232
+
+Cycle 1176 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059537
+Tempo do ciclo: 3.011802
+
+Cycle 1177 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059476
+Tempo do ciclo: 3.008125
+
+Cycle 1178 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059300
+Tempo do ciclo: 3.030037
+
+Cycle 1179 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.058838
+Tempo do ciclo: 3.014201
+
+Cycle 1180 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059407
+Tempo do ciclo: 3.032631
+
+Cycle 1181 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.058969
+Tempo do ciclo: 3.014894
+
+Cycle 1182 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059061
+Tempo do ciclo: 3.022173
+
+Cycle 1183 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059374
+Tempo do ciclo: 3.035301
+
+Cycle 1184 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059366
+Tempo do ciclo: 3.036956
+
+Cycle 1185 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059161
+Tempo do ciclo: 3.013357
+
+Cycle 1186 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059463
+Tempo do ciclo: 3.033834
+
+Cycle 1187 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.058993
+Tempo do ciclo: 3.009000
+
+Cycle 1188 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.058996
+Tempo do ciclo: 3.003569
+
+Cycle 1189 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059146
+Tempo do ciclo: 3.011433
+
+Cycle 1190 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059378
+Tempo do ciclo: 3.031201
+
+Cycle 1191 - Conflicts found: 5 (edges), 9 (vertices)
+Tempo do método ant_fixed_k: 1.059227
+Tempo do ciclo: 2.853813
+
+===
+Medias de tempo dos Kernels
+===
+Choose_vertex    : 0.288929
+Calculate_probbs : 0.380528
+Choose_colors    : 0.201591
+Update_info      : 0.186369
+
+===
+Medias de tempo dos métodos
+===
+Media ciclos     : 3.022168
+Media gpu_ant_k  : 1.059324
+Media busca tabu : 0.592441
+Media feromonio  : 0.006820
+ Media Phero_var  : 6.081427
+
+-------------------------------------------------
+SOLUTION:
+-------------------------------------------------
+No. of colors utilized: 15
+No. of conflicting edges: 5
+No. of conflicting vertices: 9
+No. of uncolored vertices: 0
+Real time: 3600.007038
+Spent time: 3600.007037
+Time to the best: 3173.779984
+Total of cycles: 1191
+Cycles to the best: 1050
+Stop criterion: 2
+-------------------------------------------------

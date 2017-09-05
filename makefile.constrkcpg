@@ -1,0 +1,15 @@
+CC = gcc
+
+CFLAGS = -pg -g -ggdb -Wall -O3 -DNRAND -DCONSTRKGCP
+OBJS = color.o util.o constr_kgcp.o
+BIN = constr_kgcp
+
+
+all: $(OBJS) 
+	$(CC) -o $(BIN) $(CFLAGS) $(OBJS) -lm
+	rm *.o
+
+clean:
+	rm $(OBJS) $(BIN) *~ 
+
+

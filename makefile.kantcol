@@ -1,0 +1,15 @@
+CC = gcc
+
+CFLAGS = -pg -g -ggdb -Wall -O3 -DNRAND -DKANTCOL
+OBJS = color.o util.o kantcol.o ant_fixed_k.o
+BIN = kantcol
+
+
+all: $(OBJS) 
+	$(CC) -o $(BIN) $(CFLAGS) $(OBJS) -lm
+	rm *.o
+
+clean:
+	rm $(OBJS) $(BIN) *~ 
+
+

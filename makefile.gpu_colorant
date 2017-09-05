@@ -1,0 +1,26 @@
+NVCC = nvcc
+CC = nvcc
+
+NVCCFLAGS = -g -G --ptxas-options=-v
+CFLAGS = -DLRAND -DCOLORANT -pg -c
+SRC = color.cu util.cu gpu_colorant.cu tabucol.cu gpu_ant_fixed_k.cu merge_sort_struct.cu
+OBJS = color.o util.o gpu_colorant.o tabucol.o gpu_ant_fixed_k.o merge_sort_struct.o
+DEPS = color.h util.h aco.h tabucol.h gpu_ant_fixed_k.cuh merge_sort_struct.h ant_fixed_k.h
+
+BIN = gpu_colorant
+
+CUDA_PATH ?= /usr/local/cuda-8.0
+INCD = -I"$(CUDA_PATH)/include" -I"./cuda_helper" -I
+LIBS = -L"$(CUDA_PATH)/lib64" -lcuda -L"$(CUDA_PATH)/lib64" -lcurand
+
+%.o: %.cu $(DEPS)
+	$(NVCC) $(NVCCFLAGS) $(CFLAGS) $(INCD) $(LIBS) -o $@ $<
+
+gpu_colorant: $(OBJS)
+	$(NVCC) -g -pg -o $(BIN) $(OBJS) $(INCD) $(LIBS)
+
+all: gpu_colorant
+
+clean:
+	rm *.o
+	rm gpu_colorant
